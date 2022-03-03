@@ -2,6 +2,7 @@ import { writeFile } from 'fs/promises'
 import { Octokit } from '@octokit/rest'
 import { red, blue } from 'colorette'
 import words from './words.json'
+import whitelist from './whitelist.json'
 
 interface Datum {
   login: string
@@ -58,9 +59,10 @@ function check(
 ) {
   if (!content || !user?.id || !user.login) return
 
-  const shouldBlock = words.some((word) =>
-    content.toLowerCase().includes(word.toLowerCase())
-  )
+  const shouldBlock =
+    words.some((word) => content.toLowerCase().includes(word.toLowerCase())) &&
+    !whitelist.includes(user.login)
+
   data.push({
     login: user.login,
     userId: user.id,
