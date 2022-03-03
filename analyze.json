@@ -2,7 +2,7 @@
   {
     "userId": 8327775,
     "username": "niices",
-    "weight": 365
+    "weight": 373
   },
   {
     "userId": 24469700,
@@ -12,12 +12,12 @@
   {
     "userId": 19618696,
     "username": "JulesCesar",
-    "weight": 327.5
+    "weight": 339.5
   },
   {
     "userId": 278153,
     "username": "cnmade",
-    "weight": 298
+    "weight": 322
   },
   {
     "userId": 22951622,
@@ -65,6 +65,11 @@
     "weight": 62
   },
   {
+    "userId": 53297076,
+    "username": "Toni-Stark",
+    "weight": 60
+  },
+  {
     "userId": 93968385,
     "username": "lixiaoqqq",
     "weight": 60
@@ -98,11 +103,6 @@
     "userId": 49635534,
     "username": "TTTTimor",
     "weight": 50.5
-  },
-  {
-    "userId": 53297076,
-    "username": "Toni-Stark",
-    "weight": 48
   },
   {
     "userId": 18132113,
@@ -218,6 +218,11 @@
     "userId": 38132162,
     "username": "StarLevi",
     "weight": 34
+  },
+  {
+    "userId": 35984392,
+    "username": "ChangeHowRan",
+    "weight": 33
   },
   {
     "userId": 17809315,
@@ -500,8 +505,8 @@
     "weight": 21
   },
   {
-    "userId": 35984392,
-    "username": "ChangeHowRan",
+    "userId": 62418493,
+    "username": "HW-2111456060",
     "weight": 21
   },
   {
@@ -610,6 +615,11 @@
     "weight": 19
   },
   {
+    "userId": 19236609,
+    "username": "KayvorGwen",
+    "weight": 17.5
+  },
+  {
     "userId": 1471838,
     "username": "cyrilluce",
     "weight": 16
@@ -655,8 +665,23 @@
     "weight": 15
   },
   {
+    "userId": 41378211,
+    "username": "Heartfilia",
+    "weight": 15
+  },
+  {
     "userId": 13465904,
     "username": "kongxiangrun",
+    "weight": 15
+  },
+  {
+    "userId": 4952629,
+    "username": "krislc",
+    "weight": 15
+  },
+  {
+    "userId": 55945643,
+    "username": "JacketLWJ",
     "weight": 15
   },
   {
@@ -830,8 +855,23 @@
     "weight": 12
   },
   {
+    "userId": 8719185,
+    "username": "wlgemini",
+    "weight": 12
+  },
+  {
+    "userId": 33476315,
+    "username": "Bu-Chuan",
+    "weight": 12
+  },
+  {
     "userId": 24820280,
     "username": "likaiji",
+    "weight": 12
+  },
+  {
+    "userId": 50942378,
+    "username": "liwangyong",
     "weight": 12
   },
   {
@@ -840,8 +880,18 @@
     "weight": 12
   },
   {
+    "userId": 89757180,
+    "username": "zksauren",
+    "weight": 12
+  },
+  {
     "userId": 68689141,
     "username": "2657086519",
+    "weight": 12
+  },
+  {
+    "userId": 26971540,
+    "username": "wayward-man",
     "weight": 12
   },
   {
@@ -852,6 +902,11 @@
   {
     "userId": 34377716,
     "username": "wangxxxb",
+    "weight": 12
+  },
+  {
+    "userId": 16302191,
+    "username": "xinx1n",
     "weight": 12
   },
   {
@@ -877,6 +932,11 @@
   {
     "userId": 624568,
     "username": "togoog",
+    "weight": 10.5
+  },
+  {
+    "userId": 32411562,
+    "username": "AccompanyZiHao",
     "weight": 10.5
   },
   {
@@ -907,6 +967,11 @@
   {
     "userId": 53645562,
     "username": "Zss96",
+    "weight": 10.5
+  },
+  {
+    "userId": 26781617,
+    "username": "qlusunshine",
     "weight": 10.5
   },
   {
@@ -1095,6 +1160,16 @@
     "weight": 8
   },
   {
+    "userId": 10903437,
+    "username": "leglars",
+    "weight": 8
+  },
+  {
+    "userId": 19573394,
+    "username": "ruomanwei",
+    "weight": 8
+  },
+  {
     "userId": 16358646,
     "username": "fangker",
     "weight": 8
@@ -1180,8 +1255,18 @@
     "weight": 7
   },
   {
+    "userId": 3860334,
+    "username": "wxxcarl",
+    "weight": 7
+  },
+  {
     "userId": 16913083,
     "username": "zhihongzhong",
+    "weight": 7
+  },
+  {
+    "userId": 5057735,
+    "username": "zwht",
     "weight": 7
   },
   {
@@ -1460,11 +1545,6 @@
     "weight": 0
   },
   {
-    "userId": 41378211,
-    "username": "Heartfilia",
-    "weight": 0
-  },
-  {
     "userId": 13013279,
     "username": "xbini",
     "weight": 0
@@ -1482,11 +1562,6 @@
   {
     "userId": 33750626,
     "username": "JunyWuuuu91",
-    "weight": 0
-  },
-  {
-    "userId": 10903437,
-    "username": "leglars",
     "weight": 0
   },
   {
@@ -1560,28 +1635,8 @@
     "weight": 0
   },
   {
-    "userId": 4952629,
-    "username": "krislc",
-    "weight": 0
-  },
-  {
-    "userId": 32411562,
-    "username": "AccompanyZiHao",
-    "weight": 0
-  },
-  {
-    "userId": 55945643,
-    "username": "JacketLWJ",
-    "weight": 0
-  },
-  {
     "userId": 3351486,
     "username": "ShinChven",
-    "weight": 0
-  },
-  {
-    "userId": 19573394,
-    "username": "ruomanwei",
     "weight": 0
   },
   {
@@ -1635,11 +1690,6 @@
     "weight": 0
   },
   {
-    "userId": 3860334,
-    "username": "wxxcarl",
-    "weight": 0
-  },
-  {
     "userId": 11795518,
     "username": "mqliutie",
     "weight": 0
@@ -1657,11 +1707,6 @@
   {
     "userId": 54567253,
     "username": "mahongran",
-    "weight": 0
-  },
-  {
-    "userId": 8719185,
-    "username": "wlgemini",
     "weight": 0
   },
   {
@@ -1730,11 +1775,6 @@
     "weight": 0
   },
   {
-    "userId": 33476315,
-    "username": "Bu-Chuan",
-    "weight": 0
-  },
-  {
     "userId": 57168312,
     "username": "cl-cc",
     "weight": 0
@@ -1752,11 +1792,6 @@
   {
     "userId": 31332457,
     "username": "panyanxin",
-    "weight": 0
-  },
-  {
-    "userId": 50942378,
-    "username": "liwangyong",
     "weight": 0
   },
   {
@@ -1795,23 +1830,8 @@
     "weight": 0
   },
   {
-    "userId": 19236609,
-    "username": "KayvorGwen",
-    "weight": 0
-  },
-  {
     "userId": 59790047,
     "username": "shensai06",
-    "weight": 0
-  },
-  {
-    "userId": 5057735,
-    "username": "zwht",
-    "weight": 0
-  },
-  {
-    "userId": 62418493,
-    "username": "HW-2111456060",
     "weight": 0
   },
   {
@@ -1852,11 +1872,6 @@
   {
     "userId": 3762361,
     "username": "theewind",
-    "weight": 0
-  },
-  {
-    "userId": 26781617,
-    "username": "qlusunshine",
     "weight": 0
   },
   {
@@ -1922,11 +1937,6 @@
   {
     "userId": 7106827,
     "username": "supergithuber",
-    "weight": 0
-  },
-  {
-    "userId": 89757180,
-    "username": "zksauren",
     "weight": 0
   },
   {
@@ -2032,11 +2042,6 @@
   {
     "userId": 100837162,
     "username": "Cnm-mgg",
-    "weight": 0
-  },
-  {
-    "userId": 26971540,
-    "username": "wayward-man",
     "weight": 0
   },
   {
@@ -2267,11 +2272,6 @@
   {
     "userId": 38281979,
     "username": "wmb0412",
-    "weight": 0
-  },
-  {
-    "userId": 16302191,
-    "username": "xinx1n",
     "weight": 0
   },
   {
