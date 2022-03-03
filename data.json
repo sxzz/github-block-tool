@@ -1,8 +1,68 @@
 [
   {
-    "login": "hufafu",
-    "userId": 13060824,
-    "content": "Bug: fuck 普京 <!--\r\n  Please provide a clear and concise description of what the bug is. Include\r\n  screenshots if needed. Please test using the latest version of the relevant\r\n  React packages to make sure your issue has not already been fixed.\r\n-->\r\n\r\nReact version:\r\n\r\n## Steps To Reproduce\r\n\r\n1.\r\n2.\r\n\r\n<!--\r\n  Your bug will get fixed much faster if we can run your code and it doesn't\r\n  have dependencies other than React. Issues without reproduction steps or\r\n  code examples may be immediately closed as not actionable.\r\n-->\r\n\r\nLink to code example:\r\n\r\n<!--\r\n  Please provide a CodeSandbox (https://codesandbox.io/s/new), a link to a\r\n  repository on GitHub, or provide a minimal code example that reproduces the\r\n  problem. You may provide a screenshot of the application if you think it is\r\n  relevant to your bug report. Here are some tips for providing a minimal\r\n  example: https://stackoverflow.com/help/mcve.\r\n-->\r\n\r\n## The current behavior\r\n\r\n\r\n## The expected behavior\r\n",
+    "login": "EugeneJao",
+    "userId": 12995034,
+    "content": "Bug: NATO are the invader, stop NATO and stop the war. NATO are the invader, America have no idea to stop the war, but supply weapons to push Ukrainian to death. stop NATO and stop the war.",
+    "shouldBlock": false
+  },
+  {
+    "login": "CamilleJohn",
+    "userId": 25744855,
+    "content": "fuck USA",
+    "shouldBlock": true
+  },
+  {
+    "login": "CamilleJohn",
+    "userId": 25744855,
+    "content": "Bug: The US is the largest terrorist organization in the world, support the elimination of Nazi Ukraine <!--\r\n  Please provide a clear and concise description of what the bug is. Include\r\n  screenshots if needed. Please test using the latest version of the relevant\r\n  React packages to make sure your issue has not already been fixed.\r\n-->\r\n\r\nReact version:\r\n\r\n## Steps To Reproduce\r\n\r\n1.\r\n2.\r\n\r\n<!--\r\n  Your bug will get fixed much faster if we can run your code and it doesn't\r\n  have dependencies other than React. Issues without reproduction steps or\r\n  code examples may be immediately closed as not actionable.\r\n-->\r\n\r\nLink to code example:\r\n\r\n<!--\r\n  Please provide a CodeSandbox (https://codesandbox.io/s/new), a link to a\r\n  repository on GitHub, or provide a minimal code example that reproduces the\r\n  problem. You may provide a screenshot of the application if you think it is\r\n  relevant to your bug report. Here are some tips for providing a minimal\r\n  example: https://stackoverflow.com/help/mcve.\r\n-->\r\n\r\n## The current behavior\r\n\r\n\r\n## The expected behavior\r\n",
+    "shouldBlock": true
+  },
+  {
+    "login": "zaqmjuop",
+    "userId": 26718710,
+    "content": "node怎么办？",
+    "shouldBlock": false
+  },
+  {
+    "login": "SaltFish001",
+    "userId": 42058801,
+    "content": "> \r\n\r\ndeno\r\n",
+    "shouldBlock": false
+  },
+  {
+    "login": "zyfgs2014",
+    "userId": 19482682,
+    "content": "https://twitter.com/youyuxi/status/1496763537170964481?s=20&t=hcj_7PlXx0-uTKZBwKTSLg",
+    "shouldBlock": false
+  },
+  {
+    "login": "zyfgs2014",
+    "userId": 19482682,
+    "content": "![image](https://user-images.githubusercontent.com/19482682/156556426-d66c74a9-497b-4b71-8f22-f3892a5e6e0c.png)\r\n",
+    "shouldBlock": false
+  },
+  {
+    "login": "GuiltyKirito",
+    "userId": 13746290,
+    "content": "![052e243cf52542bc9d7b6e765dc899c](https://user-images.githubusercontent.com/13746290/156556417-87c76778-9b27-4c1b-bb77-aae5f2c5134f.jpg)\r\n",
+    "shouldBlock": false
+  },
+  {
+    "login": "SaltFish001",
+    "userId": 42058801,
+    "content": "尤雨溪是尤雨溪, vue is vue. 至少尤雨溪在这件事上做的比React好\r\nhttps://github.com/vuejs/vue/pull/12483\r\n![1db207001865a125d41affded7a6ee7](https://user-images.githubusercontent.com/42058801/156556781-9c78ada3-75cd-4871-9b73-7607285d325b.png)\r\n\r\n",
+    "shouldBlock": true
+  },
+  {
+    "login": "Shimada666",
+    "userId": 33391300,
+    "content": "个人立场如何我都可以理解，同情乌克兰平民遭遇与对乌克兰政府行为表示遗憾也并不冲突，我只希望开源能简单纯粹一点，而不是成为政治的载体",
+    "shouldBlock": false
+  },
+  {
+    "login": "wurh",
+    "userId": 5243522,
+    "content": "作为中国人， 此时你需要preact or vue！ 乌拉~~~~",
     "shouldBlock": true
   },
   {
@@ -12,46 +72,22 @@
     "shouldBlock": false
   },
   {
-    "login": "Fmy312",
-    "userId": 91057145,
-    "content": "Bug:  能不能公平呀 科技无国界是笑话？？？？",
-    "shouldBlock": true
-  },
-  {
     "login": "facebook-github-bot",
     "userId": 6422482,
     "content": "Hi @lanistor! \n\nThank you for your pull request and welcome to our community. \n\n# Action Required\n\nIn order to merge **any pull request** (code, docs, etc.), we **require** contributors to sign our **Contributor License Agreement**, and we don't seem to have one on file for you.\n\n# Process\n\nIn order for us to review and merge your suggested changes, please sign at <https://code.facebook.com/cla>. **If you are contributing on behalf of someone else (eg your employer)**, the individual CLA may not be sufficient and your employer may need to sign the corporate CLA.\n\nOnce the CLA is signed, our tooling will perform checks and validations. Afterwards, the **pull request will be tagged** with `CLA signed`. The tagging process may take up to 1 hour after signing. Please give it that time before contacting us about it.\n\nIf you have received this in error or have any questions, please contact us at [cla@fb.com](mailto:cla@fb.com?subject=CLA%20for%20facebook%2Freact%20%2323968). Thanks!",
     "shouldBlock": false
   },
   {
+    "login": "sizebot",
+    "userId": 43185848,
+    "content": "\n<!--\n  0 failure: \n  0 warning: \n  \n  1 markdown notices\n  DangerID: danger-id-stable;\n-->\n\n\n\n\nComparing: 05c283c3c31184d68c6a54dfd6a044790b89a08a...4f482c933589e4574bbe80f623aaa21762dc5429\n\n## Critical size changes\n\nIncludes critical production bundles, as well as any change greater than 2%:\n\n\n  | Name | +/- | Base | Current | +/- gzip | Base gzip | Current gzip |\n  | ---- | --- | ---- | ------- | -------- | --------- | ------------ |\n| oss-stable/react-dom/cjs/react-dom.production.min.js | **=** | 131.46 kB | 131.46 kB | = | 42.05 kB | 42.06 kB\n| oss-experimental/react-dom/cjs/react-dom.production.min.js | **=** | 136.12 kB | 136.12 kB | = | 43.41 kB | 43.41 kB\n| facebook-www/ReactDOM-prod.classic.js | **=** | 435.09 kB | 435.09 kB | = | 79.61 kB | 79.61 kB\n| facebook-www/ReactDOM-prod.modern.js | **=** | 421.59 kB | 421.59 kB | = | 77.60 kB | 77.60 kB\n| facebook-www/ReactDOMForked-prod.classic.js | **=** | 435.09 kB | 435.09 kB | = | 79.62 kB | 79.62 kB\n\n## Significant size changes\n\nIncludes any change greater than 0.2%:\n\n(No significant changes)\n\n<p align=\"right\">\n  Generated by :no_entry_sign: <a href=\"https://danger.systems/js\">dangerJS</a> against 4f482c933589e4574bbe80f623aaa21762dc5429\n</p>\n",
+    "shouldBlock": false
+  },
+  {
     "login": "lanistor",
     "userId": 15553840,
-    "content": "Fuck React for support Ukraine <!--\r\n  Thanks for submitting a pull request!\r\n  We appreciate you spending the time to work on these changes. Please provide enough information so that others can review your pull request. The three fields below are mandatory.\r\n\r\n  Before submitting a pull request, please make sure the following is done:\r\n\r\n  1. Fork [the repository](https://github.com/facebook/react) and create your branch from `main`.\r\n  2. Run `yarn` in the repository root.\r\n  3. If you've fixed a bug or added code that should be tested, add tests!\r\n  4. Ensure the test suite passes (`yarn test`). Tip: `yarn test --watch TestName` is helpful in development.\r\n  5. Run `yarn test --prod` to test in the production environment. It supports the same options as `yarn test`.\r\n  6. If you need a debugger, run `yarn debug-test --watch TestName`, open `chrome://inspect`, and press \"Inspect\".\r\n  7. Format your code with [prettier](https://github.com/prettier/prettier) (`yarn prettier`).\r\n  8. Make sure your code lints (`yarn lint`). Tip: `yarn linc` to only check changed files.\r\n  9. Run the [Flow](https://flowtype.org/) type checks (`yarn flow`).\r\n  10. If you haven't already, complete the CLA.\r\n\r\n  Learn more about contributing: https://reactjs.org/docs/how-to-contribute.html\r\n-->\r\n\r\n## Summary\r\n\r\n<!--\r\n Explain the **motivation** for making this change. What existing problem does the pull request solve?\r\n-->\r\n\r\n## How did you test this change?\r\n\r\n<!--\r\n  Demonstrate the code is solid. Example: The exact commands you ran and their output, screenshots / videos if the pull request changes the user interface.\r\n  How exactly did you verify that your PR solves the issue you wanted to solve?\r\n  If you leave this empty, your PR will very likely be closed.\r\n-->\r\n",
+    "content": "Fuck React for supporting Ukraine <!--\r\n  Thanks for submitting a pull request!\r\n  We appreciate you spending the time to work on these changes. Please provide enough information so that others can review your pull request. The three fields below are mandatory.\r\n\r\n  Before submitting a pull request, please make sure the following is done:\r\n\r\n  1. Fork [the repository](https://github.com/facebook/react) and create your branch from `main`.\r\n  2. Run `yarn` in the repository root.\r\n  3. If you've fixed a bug or added code that should be tested, add tests!\r\n  4. Ensure the test suite passes (`yarn test`). Tip: `yarn test --watch TestName` is helpful in development.\r\n  5. Run `yarn test --prod` to test in the production environment. It supports the same options as `yarn test`.\r\n  6. If you need a debugger, run `yarn debug-test --watch TestName`, open `chrome://inspect`, and press \"Inspect\".\r\n  7. Format your code with [prettier](https://github.com/prettier/prettier) (`yarn prettier`).\r\n  8. Make sure your code lints (`yarn lint`). Tip: `yarn linc` to only check changed files.\r\n  9. Run the [Flow](https://flowtype.org/) type checks (`yarn flow`).\r\n  10. If you haven't already, complete the CLA.\r\n\r\n  Learn more about contributing: https://reactjs.org/docs/how-to-contribute.html\r\n-->\r\n\r\n## Summary\r\n\r\n<!--\r\n Explain the **motivation** for making this change. What existing problem does the pull request solve?\r\n-->\r\n\r\n## How did you test this change?\r\n\r\n<!--\r\n  Demonstrate the code is solid. Example: The exact commands you ran and their output, screenshots / videos if the pull request changes the user interface.\r\n  How exactly did you verify that your PR solves the issue you wanted to solve?\r\n  If you leave this empty, your PR will very likely be closed.\r\n-->\r\n",
     "shouldBlock": true
-  },
-  {
-    "login": "wjdxy172816",
-    "userId": 11540110,
-    "content": "盎撒白皮猪最虚伪,最阴毒,他们灭绝了世界就清静了.",
-    "shouldBlock": false
-  },
-  {
-    "login": "xuxubarca",
-    "userId": 13588020,
-    "content": "那些骂中国用户的都是小号，连大号都不敢上。估计都是台湾1450",
-    "shouldBlock": false
-  },
-  {
-    "login": "PigXiuYang",
-    "userId": 28745210,
-    "content": "好像管理正在删issues，数量在减少",
-    "shouldBlock": false
-  },
-  {
-    "login": "lonelyion",
-    "userId": 25267689,
-    "content": "Bug: 成天人道主义挂在嘴边的，才是真正的种族灭绝者。 美国自1776年建国以来，先后发动1500多次袭击，血腥屠杀印第安人，掠夺土地。500万印第安人到1900年仅剩23.7万人。美国强迫约10万印第安人大迁徙，成千上万的人因饥寒交迫、疾病瘟疫死于途中。迁徙之路成“血泪之路”。直到今天，印第安人的噩梦仍在继续。\r\n\r\nhttps://youtu.be/jC-Xz8kNbLM\r\n\r\nReact version:\r\n\r\n## Steps To Reproduce\r\n\r\n1.\r\n2.\r\n\r\n<!--\r\n  Your bug will get fixed much faster if we can run your code and it doesn't\r\n  have dependencies other than React. Issues without reproduction steps or\r\n  code examples may be immediately closed as not actionable.\r\n-->\r\n\r\nLink to code example:\r\n\r\n<!--\r\n  Please provide a CodeSandbox (https://codesandbox.io/s/new), a link to a\r\n  repository on GitHub, or provide a minimal code example that reproduces the\r\n  problem. You may provide a screenshot of the application if you think it is\r\n  relevant to your bug report. Here are some tips for providing a minimal\r\n  example: https://stackoverflow.com/help/mcve.\r\n-->\r\n\r\n## The current behavior\r\n\r\n\r\n## The expected behavior\r\n",
-    "shouldBlock": false
   },
   {
     "login": "dockercore",
@@ -60,142 +96,34 @@
     "shouldBlock": false
   },
   {
-    "login": "lanmoyingsheng",
-    "userId": 8971175,
-    "content": "我也没喷你妈被狗日了的逼啊",
-    "shouldBlock": true
-  },
-  {
-    "login": "MarshallEriksen-shaomingyang",
-    "userId": 59674455,
-    "content": "> \r\n你就像个大傻逼\r\n",
-    "shouldBlock": true
-  },
-  {
-    "login": "MarshallEriksen-shaomingyang",
-    "userId": 59674455,
-    "content": "> DuReU13\r\n\r\n你妈是不是被狗  日过生你出来了",
-    "shouldBlock": true
-  },
-  {
-    "login": "lanmoyingsheng",
-    "userId": 8971175,
-    "content": "[DuReU13](https://github.com/DuReU13)\r\n@DuReU13\r\n\r\n哪来的台巴子，台湾又来电了？又能上网了，装你妈逼的中国人",
-    "shouldBlock": true
-  },
-  {
-    "login": "zhy531017132",
-    "userId": 79294762,
-    "content": "妈了个巴子",
+    "login": "SekiBetu",
+    "userId": 38283893,
+    "content": "不许亲不许亲不许亲不许亲，我不许你们亲拜登！\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n嘿嘿嘿，拜登永远是我的老头",
     "shouldBlock": false
   },
   {
-    "login": "wuweijian1997",
-    "userId": 29529286,
-    "content": "> 悲哀你骂了个逼, 不想想为什么那么多人过来喷\r\n\r\n兄弟们都是哪里过来喷的？我都不知道发生了什么",
-    "shouldBlock": false
-  },
-  {
-    "login": "mooncakedevop",
-    "userId": 34644814,
-    "content": "喷就完事了，就你会反思，就你文明有风度，欺负到头上还在反思呢",
-    "shouldBlock": false
-  },
-  {
-    "login": "aipame",
-    "userId": 1295210,
-    "content": "好多新号在发言论仔细想想吧！他就是让你愤怒说出有利于他的话好挑起事端！所以五毛党哪里都有！",
-    "shouldBlock": false
-  },
-  {
-    "login": "lutyne",
-    "userId": 71123821,
-    "content": "楼上那个DuReU13是哪个国家的?脑子多少沾点粪了",
-    "shouldBlock": false
-  },
-  {
-    "login": "MunMunMiao",
-    "userId": 18216142,
-    "content": "等你🐴被美狗日了我第一个拍手",
-    "shouldBlock": true
-  },
-  {
-    "login": "lanmoyingsheng",
-    "userId": 8971175,
-    "content": "感觉@DuReU13是机器人",
-    "shouldBlock": false
-  },
-  {
-    "login": "PineSongCN",
-    "userId": 39976617,
-    "content": "SB，美分反串发的，关我们中国人什么事，滚回你的美国主子那里去。",
-    "shouldBlock": false
-  },
-  {
-    "login": "maxLoveCode",
-    "userId": 2853571,
-    "content": "shabi",
-    "shouldBlock": false
-  },
-  {
-    "login": "R1hug0",
-    "userId": 8827342,
-    "content": "东边在韩国部署萨德瞄准北京，南边用南海和台湾瞄准上海广州，而西边的尼泊尔则是在瞄准我们的西藏，如果北边的俄罗斯再躺平了，我们就彻底掉入他们的包围圈。",
-    "shouldBlock": true
-  },
-  {
-    "login": "Dujishi",
-    "userId": 21231038,
-    "content": "国人喷子真多  悲哀！！！ <!--\r\n  Please provide a clear and concise description of what the bug is. Include\r\n  screenshots if needed. Please test using the latest version of the relevant\r\n  React packages to make sure your issue has not already been fixed.\r\n-->\r\n\r\nReact version:\r\n\r\n## Steps To Reproduce\r\n\r\n1.\r\n2.\r\n\r\n<!--\r\n  Your bug will get fixed much faster if we can run your code and it doesn't\r\n  have dependencies other than React. Issues without reproduction steps or\r\n  code examples may be immediately closed as not actionable.\r\n-->\r\n\r\nLink to code example:\r\n\r\n<!--\r\n  Please provide a CodeSandbox (https://codesandbox.io/s/new), a link to a\r\n  repository on GitHub, or provide a minimal code example that reproduces the\r\n  problem. You may provide a screenshot of the application if you think it is\r\n  relevant to your bug report. Here are some tips for providing a minimal\r\n  example: https://stackoverflow.com/help/mcve.\r\n-->\r\n\r\n## The current behavior\r\n\r\n\r\n## The expected behavior\r\n",
-    "shouldBlock": false
-  },
-  {
-    "login": "zhukunpenglinyutong",
-    "userId": 31264015,
-    "content": "> 你他妈傻逼，拿美国动画片做头像，不爱国的玩意\r\n\r\n这就过了",
-    "shouldBlock": true
-  },
-  {
-    "login": "xuxubarca",
-    "userId": 13588020,
-    "content": "> 你他妈傻逼，拿美国动画片做头像，不爱国的玩意\r\n\r\n动画是为人服务的，你看个动画就给人跪了？真贱",
-    "shouldBlock": true
-  },
-  {
-    "login": "xuxubarca",
-    "userId": 13588020,
-    "content": "> 你他妈傻逼，拿美国动画片做头像，不爱国的玩意\r\n\r\n我看再多美国动画我也是堂堂正正的中国人，你这种傻逼只能给人当狗",
-    "shouldBlock": true
-  },
-  {
-    "login": "xuxubarca",
-    "userId": 13588020,
-    "content": "美国如果毁灭了，世界和平就有希望了 <!--\r\n  Please provide a clear and concise description of what the bug is. Include\r\n  screenshots if needed. Please test using the latest version of the relevant\r\n  React packages to make sure your issue has not already been fixed.\r\n-->\r\n\r\nReact version:\r\n\r\n## Steps To Reproduce\r\n\r\n1.\r\n2.\r\n\r\n<!--\r\n  Your bug will get fixed much faster if we can run your code and it doesn't\r\n  have dependencies other than React. Issues without reproduction steps or\r\n  code examples may be immediately closed as not actionable.\r\n-->\r\n\r\nLink to code example:\r\n\r\n<!--\r\n  Please provide a CodeSandbox (https://codesandbox.io/s/new), a link to a\r\n  repository on GitHub, or provide a minimal code example that reproduces the\r\n  problem. You may provide a screenshot of the application if you think it is\r\n  relevant to your bug report. Here are some tips for providing a minimal\r\n  example: https://stackoverflow.com/help/mcve.\r\n-->\r\n\r\n## The current behavior\r\n\r\n\r\n## The expected behavior\r\n",
-    "shouldBlock": false
-  },
-  {
-    "login": "Gatsbyy",
-    "userId": 5585293,
-    "content": "> 反战不反美，拜登亲你嘴\n\n老铁666",
+    "login": "mgttt",
+    "userId": 6470068,
+    "content": "666",
     "shouldBlock": false
   },
   {
     "login": "zhukunpenglinyutong",
     "userId": 31264015,
     "content": "Bug: 反战不反美，拜登亲你嘴 反战不反美，拜登亲你嘴",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "how25",
     "userId": 33578538,
     "content": "Bug: Fools Support Ukraine <!--\r\n  Please provide a clear and concise description of what the bug is. Include\r\n  screenshots if needed. Please test using the latest version of the relevant\r\n  React packages to make sure your issue has not already been fixed.\r\n-->\r\n\r\nReact version:\r\n\r\n## Steps To Reproduce\r\n\r\n1.\r\n2.\r\n\r\n<!--\r\n  Your bug will get fixed much faster if we can run your code and it doesn't\r\n  have dependencies other than React. Issues without reproduction steps or\r\n  code examples may be immediately closed as not actionable.\r\n-->\r\n\r\nLink to code example:\r\n\r\n<!--\r\n  Please provide a CodeSandbox (https://codesandbox.io/s/new), a link to a\r\n  repository on GitHub, or provide a minimal code example that reproduces the\r\n  problem. You may provide a screenshot of the application if you think it is\r\n  relevant to your bug report. Here are some tips for providing a minimal\r\n  example: https://stackoverflow.com/help/mcve.\r\n-->\r\n\r\n## The current behavior\r\n\r\n\r\n## The expected behavior\r\n",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "how25",
     "userId": 33578538,
     "content": "Bug: Fools Support Ukraine <!--\r\n  Please provide a clear and concise description of what the bug is. Include\r\n  screenshots if needed. Please test using the latest version of the relevant\r\n  React packages to make sure your issue has not already been fixed.\r\n-->\r\n\r\nReact version:\r\n\r\n## Steps To Reproduce\r\n\r\n1.\r\n2.\r\n\r\n<!--\r\n  Your bug will get fixed much faster if we can run your code and it doesn't\r\n  have dependencies other than React. Issues without reproduction steps or\r\n  code examples may be immediately closed as not actionable.\r\n-->\r\n\r\nLink to code example:\r\n\r\n<!--\r\n  Please provide a CodeSandbox (https://codesandbox.io/s/new), a link to a\r\n  repository on GitHub, or provide a minimal code example that reproduces the\r\n  problem. You may provide a screenshot of the application if you think it is\r\n  relevant to your bug report. Here are some tips for providing a minimal\r\n  example: https://stackoverflow.com/help/mcve.\r\n-->\r\n\r\n## The current behavior\r\n\r\n\r\n## The expected behavior\r\n",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "guoshanglz",
@@ -240,6 +168,30 @@
     "shouldBlock": false
   },
   {
+    "login": "mgttt",
+    "userId": 6470068,
+    "content": "好怕，是真的好怕",
+    "shouldBlock": false
+  },
+  {
+    "login": "SAFEluren",
+    "userId": 79032826,
+    "content": "fbi到中国跨境执法是吧？",
+    "shouldBlock": false
+  },
+  {
+    "login": "heliumyc",
+    "userId": 18675844,
+    "content": "小粉红在意淫之前能不能好好了解一下 fbi 是个啥, 真以为天下都跟网警一样到处出警是吧",
+    "shouldBlock": false
+  },
+  {
+    "login": "coderybh",
+    "userId": 60813121,
+    "content": "别说了 有五十万",
+    "shouldBlock": false
+  },
+  {
     "login": "R1hug0",
     "userId": 8827342,
     "content": "Bug:   你们说再多没用，github已将你们注册的相关个人信息交给FBI大数据分析，明天查水表 <!--\r\n  Please provide a clear and concise description of what the bug is. Include\r\n  screenshots if needed. Please test using the latest version of the relevant\r\n  React packages to make sure your issue has not already been fixed.\r\n-->\r\n\r\nReact version:\r\n\r\n## Steps To Reproduce\r\n\r\n1.\r\n2.\r\n\r\n<!--\r\n  Your bug will get fixed much faster if we can run your code and it doesn't\r\n  have dependencies other than React. Issues without reproduction steps or\r\n  code examples may be immediately closed as not actionable.\r\n-->\r\n\r\nLink to code example:\r\n\r\n<!--\r\n  Please provide a CodeSandbox (https://codesandbox.io/s/new), a link to a\r\n  repository on GitHub, or provide a minimal code example that reproduces the\r\n  problem. You may provide a screenshot of the application if you think it is\r\n  relevant to your bug report. Here are some tips for providing a minimal\r\n  example: https://stackoverflow.com/help/mcve.\r\n-->\r\n\r\n## The current behavior\r\n\r\n\r\n## The expected behavior\r\n",
@@ -261,19 +213,19 @@
     "login": "french-home",
     "userId": 42970705,
     "content": "反战不反美，心里必有鬼 反战不反美，心里必有鬼\r\n反战不反美，心里必有鬼\r\n反战不反美，心里必有鬼\r\n反战不反美，心里必有鬼\r\n反战不反美，心里必有鬼\r\n反战不反美，心里必有鬼\r\n反战不反美，心里必有鬼\r\n反战不反美，心里必有鬼\r\n反战不反美，心里必有鬼\r\n反战不反美，心里必有鬼",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "shen931205",
     "userId": 10768047,
     "content": "Bug: 反战不反美，心里必有鬼。 no war not means Ukraine is right !The president of Ukraine  is just a figurehead . support russia .",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "how25",
     "userId": 33578538,
     "content": "Bug:  Fools Support Ukraine <!--\r\n  Please provide a clear and concise description of what the bug is. Include\r\n  screenshots if needed. Please test using the latest version of the relevant\r\n  React packages to make sure your issue has not already been fixed.\r\n-->\r\n\r\nReact version:\r\n\r\n## Steps To Reproduce\r\n\r\n1.\r\n2.\r\n\r\n<!--\r\n  Your bug will get fixed much faster if we can run your code and it doesn't\r\n  have dependencies other than React. Issues without reproduction steps or\r\n  code examples may be immediately closed as not actionable.\r\n-->\r\n\r\nLink to code example:\r\n\r\n<!--\r\n  Please provide a CodeSandbox (https://codesandbox.io/s/new), a link to a\r\n  repository on GitHub, or provide a minimal code example that reproduces the\r\n  problem. You may provide a screenshot of the application if you think it is\r\n  relevant to your bug report. Here are some tips for providing a minimal\r\n  example: https://stackoverflow.com/help/mcve.\r\n-->\r\n\r\n## The current behavior\r\n\r\n\r\n## The expected behavior\r\n",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "mooncakedevop",
@@ -285,18 +237,12 @@
     "login": "french-home",
     "userId": 42970705,
     "content": "反战不反美，心里必有鬼 反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼反战不反美，心里必有鬼",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "meihaomingtian23",
     "userId": 49868468,
     "content": "【Hatred of extermination】——————————————————— https://www.bilibili.com/video/BV17T4y1S7v4 【Hatred of extermination】——————————————————— https://www.bilibili.com/video/BV17T4y1S7v4 【Hatred of extermination】——————————————————— https://www.bilibili.com/video/BV17T4y1S7v4 【Hatred of extermination】——————————————————— https://www.bilibili.com/video/BV17T4y1S7v4  <!--\r\n  Please provide a clear and concise description of what the bug is. Include\r\n  screenshots if needed. Please test using the latest version of the relevant\r\n  React packages to make sure your issue has not already been fixed.\r\n-->\r\n\r\nReact version:\r\n\r\n## Steps To Reproduce\r\n\r\n1.\r\n2.\r\n\r\n<!--\r\n  Your bug will get fixed much faster if we can run your code and it doesn't\r\n  have dependencies other than React. Issues without reproduction steps or\r\n  code examples may be immediately closed as not actionable.\r\n-->\r\n\r\nLink to code example:\r\n\r\n<!--\r\n  Please provide a CodeSandbox (https://codesandbox.io/s/new), a link to a\r\n  repository on GitHub, or provide a minimal code example that reproduces the\r\n  problem. You may provide a screenshot of the application if you think it is\r\n  relevant to your bug report. Here are some tips for providing a minimal\r\n  example: https://stackoverflow.com/help/mcve.\r\n-->\r\n\r\n## The current behavior\r\n\r\n\r\n## The expected behavior\r\n",
-    "shouldBlock": false
-  },
-  {
-    "login": "dijing1987",
-    "userId": 35393965,
-    "content": "Bug: [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbisbbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbisbbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbisbbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbisbbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbisbbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbisbbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbish][rubbisbbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish] [rubbish][rubbish][rubbish][rubbish][rubbish][rubbish]",
     "shouldBlock": false
   },
   {
@@ -324,10 +270,16 @@
     "shouldBlock": true
   },
   {
-    "login": "bravekingzhang",
-    "userId": 4476322,
-    "content": "如果不是你补一条评论，你妈死前都会拉着你走。外面汉奸，里面服软，什么意思呢？",
-    "shouldBlock": true
+    "login": "sillysillyc",
+    "userId": 30365172,
+    "content": "你可真是条狗啊",
+    "shouldBlock": false
+  },
+  {
+    "login": "Julianayy",
+    "userId": 85354361,
+    "content": "interesting....",
+    "shouldBlock": false
   },
   {
     "login": "yinhunfeixue",
@@ -357,6 +309,12 @@
     "login": "cyrilluce",
     "userId": 1471838,
     "content": "0. 乌克兰的亚述营先了解一下，配上Heroic只让人感觉到恶心\r\n1. react是开源软件，不是只有美国人的贡献，开源就开源，混入政治信息还不让人说嘛？\r\n2. 对你的评价是跪久了站不起来了，要知道别人不敢打你是因为你强，而不是因为你礼貌。感恩节了解一下？",
+    "shouldBlock": true
+  },
+  {
+    "login": "CamilleJohn",
+    "userId": 25744855,
+    "content": "口口声声粉红，你这种人是什么东西自己没个数？乌克兰纳粹做了什么事情选择性无视？还糟蹋？这些西方的狗杂碎做了什么事情他们自己心里面没数？你真的天真的以为西方的这些白皮猪和美国新纳粹会放过中国？你特么有点骨气行么？真就狗粮吃多了就忘记了人是怎么说话的是么\r\n",
     "shouldBlock": false
   },
   {
@@ -372,18 +330,6 @@
     "shouldBlock": false
   },
   {
-    "login": "Shimada666",
-    "userId": 33391300,
-    "content": "对乌克兰的平民遭遇表示同情 对乌克兰政府行为表示遗憾",
-    "shouldBlock": false
-  },
-  {
-    "login": "wuweijian1997",
-    "userId": 29529286,
-    "content": "华为为乌克兰人民遭受的灾难和损失感到遗憾计划给乌克兰提供免费网络设备/ [华为为乌克兰人民遭受的灾难和损失感到遗憾计划给乌克兰提供免费网络设备/](https://www.reddit.com/r/China_irl/comments/t4c7az/%E5%8D%8E%E4%B8%BA%E4%B8%BA%E4%B9%8C%E5%85%8B%E5%85%B0%E4%BA%BA%E6%B0%91%E9%81%AD%E5%8F%97%E7%9A%84%E7%81%BE%E9%9A%BE%E5%92%8C%E6%8D%9F%E5%A4%B1%E6%84%9F%E5%88%B0%E9%81%97%E6%86%BE%E8%AE%A1%E5%88%92%E7%BB%99%E4%B9%8C%E5%85%8B%E5%85%B0%E6%8F%90%E4%BE%9B%E5%85%8D%E8%B4%B9%E7%BD%91%E7%BB%9C%E8%AE%BE%E5%A4%87/)",
-    "shouldBlock": true
-  },
-  {
     "login": "lanmoyingsheng",
     "userId": 8971175,
     "content": "double standards facebook need my fingers, my fingers can fuck you wonderfuly ! 躺着赚钱圣母婊 double standards facebook need my fingers, my fingers can fuck you wonderfuly ! 躺着赚钱圣母婊",
@@ -393,6 +339,12 @@
     "login": "meihaomingtian23",
     "userId": 49868468,
     "content": "【Hatred of extermination】https://www.bilibili.com/video/BV17T4y1S7v4                                                                     【Hatred of extermination】https://www.bilibili.com/video/BV17T4y1S7v4                                                                     【Hatred of extermination】https://www.bilibili.com/video/BV17T4y1S7v4                                                                     【Hatred of extermination】https://www.bilibili.com/video/BV17T4y1S7v4                                                                      <!--\r\n  Please provide a clear and concise description of what the bug is. Include\r\n  screenshots if needed. Please test using the latest version of the relevant\r\n  React packages to make sure your issue has not already been fixed.\r\n-->\r\n\r\nReact version:\r\n\r\n## Steps To Reproduce\r\n\r\n1.\r\n2.\r\n\r\n<!--\r\n  Your bug will get fixed much faster if we can run your code and it doesn't\r\n  have dependencies other than React. Issues without reproduction steps or\r\n  code examples may be immediately closed as not actionable.\r\n-->\r\n\r\nLink to code example:\r\n\r\n<!--\r\n  Please provide a CodeSandbox (https://codesandbox.io/s/new), a link to a\r\n  repository on GitHub, or provide a minimal code example that reproduces the\r\n  problem. You may provide a screenshot of the application if you think it is\r\n  relevant to your bug report. Here are some tips for providing a minimal\r\n  example: https://stackoverflow.com/help/mcve.\r\n-->\r\n\r\n## The current behavior\r\n\r\n\r\n## The expected behavior\r\n",
+    "shouldBlock": false
+  },
+  {
+    "login": "dinghui-wang",
+    "userId": 61412262,
+    "content": "why？",
     "shouldBlock": false
   },
   {
@@ -420,16 +372,10 @@
     "shouldBlock": false
   },
   {
-    "login": "xuxubarca",
-    "userId": 13588020,
-    "content": "Support Russia's anti Fascism !! <!--\r\n  Please provide a clear and concise description of what the bug is. Include\r\n  screenshots if needed. Please test using the latest version of the relevant\r\n  React packages to make sure your issue has not already been fixed.\r\n-->\r\n\r\nReact version:\r\n\r\n## Steps To Reproduce\r\n\r\n1.\r\n2.\r\n\r\n<!--\r\n  Your bug will get fixed much faster if we can run your code and it doesn't\r\n  have dependencies other than React. Issues without reproduction steps or\r\n  code examples may be immediately closed as not actionable.\r\n-->\r\n\r\nLink to code example:\r\n\r\n<!--\r\n  Please provide a CodeSandbox (https://codesandbox.io/s/new), a link to a\r\n  repository on GitHub, or provide a minimal code example that reproduces the\r\n  problem. You may provide a screenshot of the application if you think it is\r\n  relevant to your bug report. Here are some tips for providing a minimal\r\n  example: https://stackoverflow.com/help/mcve.\r\n-->\r\n\r\n## The current behavior\r\n\r\n\r\n## The expected behavior\r\n",
-    "shouldBlock": false
-  },
-  {
     "login": "ZeroEarl",
     "userId": 46588563,
     "content": "Bug: War Criminal:  America's History of Invasion to Other Countries.      Since WW2, [Earth has had 248 armed conflicts. The US started 201 of them.](http://www.washingtonsblog.com/2014/05/90-deaths-war-civilians.html)\r\nThese US-started armed attacks have [killed ~30 million](http://www.examiner.com/article/us-war-murdered-20-30-million-since-ww2-arrest-today-s-war-criminals) and counting; [90% of these deaths are innocent](http://www.washingtonsblog.com/2014/05/90-deaths-war-civilians.html) children, the elderly and ordinary working civilian women and men.\r\nThe [US has war-murdered more than Hitler’s Nazis](http://www.washingtonsblog.com/2013/07/obama-celebrates-30-million-us-war-kills-since-ww2-past-hitler-to-3-on-all-time-list.html).\r\nUS official reports now confirm [all “reasons” the US told for current armed attacks were known to be false as they were told.](http://www.washingtonsblog.com/2014/04/resolving-developed-nations-obvious-complicity-lie-started-us-war-crimes.html)\r\nThese lie-started US wars are not even close to lawful ([here](http://www.washingtonsblog.com/2014/05/us-military-legal-argument-current-wars-self-defense-whatever-say.html) and [here](http://www.washingtonsblog.com/2014/04/resolving-developed-nations-obvious-complicity-lie-started-us-war-crimes.html) recently).\r\nUS wars and rhetoric for more wars continue a [long history of lie-began US Wars of Aggression](http://www.examiner.com/article/occupy-this-us-history-exposes-the-1-s-crimes-then-and-now-1-of-6). The [most decorated US Marine general in his day warned all Americans](http://www.examiner.com/article/most-decorated-us-marine-general-purpose-of-all-us-wars-is-billions-for-insiders-profits) of this fact of lie-started wars for 1% plunder.\r\n\r\n1，1960，Feb Invaded Dominican Republic \r\n2，1960， July，Invaded Congo murdered its president Lumumba  \r\n3，1961 ， Invaded Laos \r\n4，1962,    Cuba missile crisis  \r\n5,  1961,    Invaded Vietnam\r\n6,   1962,  Invaded Dominican Republic  \r\n7,   1965,   Invaded Dominican Republic \r\n8,   1970 Invaded Cambodia \r\n9,  1971，April Invaded Yemen \r\n10, 1983, Oct, Invaded Grenada \r\n11,  1986，Invaded Libya\r\n12,  1987——1988，Invaded Iran \r\n13，1989，attacked Libya \r\n14, 1989，invaded Banama \r\n15, 1991, Attacked Iraq \r\n16, 1999, Nato bombed Federal Republic of Yugoslavia for 80 days, boomed the Chinese embassy \r\n17, 2001 Invaded Iraq, simply because of a tube of washing powder  \r\n18, 2003 Overtook Iraq \r\n19,  2013 Invaded Syria",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "PineSongCN",
@@ -450,6 +396,42 @@
     "shouldBlock": true
   },
   {
+    "login": "changhuiX",
+    "userId": 57213231,
+    "content": "吆西",
+    "shouldBlock": false
+  },
+  {
+    "login": "shuaohan991205",
+    "userId": 65755819,
+    "content": "打倒美帝国主义！！！",
+    "shouldBlock": true
+  },
+  {
+    "login": "6ZILIULIU",
+    "userId": 17846563,
+    "content": "打倒美帝国主义！！！",
+    "shouldBlock": true
+  },
+  {
+    "login": "zaqmjuop",
+    "userId": 26718710,
+    "content": "遗憾的是现在整个前端都基于node",
+    "shouldBlock": false
+  },
+  {
+    "login": "sleepyfive",
+    "userId": 36007710,
+    "content": "就很无语，原来",
+    "shouldBlock": false
+  },
+  {
+    "login": "txltxl22",
+    "userId": 22876384,
+    "content": "> [华为为乌克兰人民遭受的灾难和损失感到遗憾计划给乌克兰提供免费网络设备](https://www.reddit.com/r/China_irl/comments/t4c7az/%E5%8D%8E%E4%B8%BA%E4%B8%BA%E4%B9%8C%E5%85%8B%E5%85%B0%E4%BA%BA%E6%B0%91%E9%81%AD%E5%8F%97%E7%9A%84%E7%81%BE%E9%9A%BE%E5%92%8C%E6%8D%9F%E5%A4%B1%E6%84%9F%E5%88%B0%E9%81%97%E6%86%BE%E8%AE%A1%E5%88%92%E7%BB%99%E4%B9%8C%E5%85%8B%E5%85%B0%E6%8F%90%E4%BE%9B%E5%85%8D%E8%B4%B9%E7%BD%91%E7%BB%9C%E8%AE%BE%E5%A4%87/)\r\n\r\n外网消息也信？美国狗会制裁自己人公司吗？",
+    "shouldBlock": true
+  },
+  {
     "login": "bennieniu",
     "userId": 25980157,
     "content": "Bug: 可拉鸡巴倒吧，还技术无关政治，好人都让你们做了是吧。要不是react和nodejs发声明在先，谁他妈闲的没事来这里 ![image](https://user-images.githubusercontent.com/25980157/156548848-1960e6a2-91db-40c3-bc60-edb91c60d07a.png)\r\n<img width=\"808\" alt=\"image\" src=\"https://user-images.githubusercontent.com/25980157/156548859-3d1ff4b4-f21e-479d-a32a-697ee7fa88bf.png\">\r\n",
@@ -462,9 +444,9 @@
     "shouldBlock": false
   },
   {
-    "login": "xuxubarca",
-    "userId": 13588020,
-    "content": "Ukraine is Nazi . Support Russia ! <!--\r\n  Please provide a clear and concise description of what the bug is. Include\r\n  screenshots if needed. Please test using the latest version of the relevant\r\n  React packages to make sure your issue has not already been fixed.\r\n-->\r\n\r\nReact version:\r\n\r\n## Steps To Reproduce\r\n\r\n1.\r\n2.\r\n\r\n<!--\r\n  Your bug will get fixed much faster if we can run your code and it doesn't\r\n  have dependencies other than React. Issues without reproduction steps or\r\n  code examples may be immediately closed as not actionable.\r\n-->\r\n\r\nLink to code example:\r\n\r\n<!--\r\n  Please provide a CodeSandbox (https://codesandbox.io/s/new), a link to a\r\n  repository on GitHub, or provide a minimal code example that reproduces the\r\n  problem. You may provide a screenshot of the application if you think it is\r\n  relevant to your bug report. Here are some tips for providing a minimal\r\n  example: https://stackoverflow.com/help/mcve.\r\n-->\r\n\r\n## The current behavior\r\n\r\n\r\n## The expected behavior\r\n",
+    "login": "EugeneJao",
+    "userId": 12995034,
+    "content": "they have no principles,  only benefits",
     "shouldBlock": false
   },
   {
@@ -504,12 +486,6 @@
     "shouldBlock": false
   },
   {
-    "login": "xuxubarca",
-    "userId": 13588020,
-    "content": "Ukraine is Nazi Ukraine is Nazi",
-    "shouldBlock": false
-  },
-  {
     "login": "xavierskip",
     "userId": 1214741,
     "content": "ref: 1969年，中苏核危机始末\r\nhttp://cpc.people.com.cn/GB/85037/85039/7218846.html ",
@@ -522,28 +498,16 @@
     "shouldBlock": false
   },
   {
+    "login": "EugeneJao",
+    "userId": 12995034,
+    "content": "they have no principles,  only benefits",
+    "shouldBlock": false
+  },
+  {
     "login": "pizcat",
     "userId": 78524026,
     "content": "You bitch America, you rob the world, you rape the people anywhere Fuck you the US.\r\n",
     "shouldBlock": true
-  },
-  {
-    "login": "xuxubarca",
-    "userId": 13588020,
-    "content": "Bug: 支持俄罗斯消灭乌克兰新纳粹！！ <!--\r\n  Please provide a clear and concise description of what the bug is. Include\r\n  screenshots if needed. Please test using the latest version of the relevant\r\n  React packages to make sure your issue has not already been fixed.\r\n-->\r\n\r\nReact version:\r\n\r\n## Steps To Reproduce\r\n\r\n1.\r\n2.\r\n\r\n<!--\r\n  Your bug will get fixed much faster if we can run your code and it doesn't\r\n  have dependencies other than React. Issues without reproduction steps or\r\n  code examples may be immediately closed as not actionable.\r\n-->\r\n\r\nLink to code example:\r\n\r\n<!--\r\n  Please provide a CodeSandbox (https://codesandbox.io/s/new), a link to a\r\n  repository on GitHub, or provide a minimal code example that reproduces the\r\n  problem. You may provide a screenshot of the application if you think it is\r\n  relevant to your bug report. Here are some tips for providing a minimal\r\n  example: https://stackoverflow.com/help/mcve.\r\n-->\r\n\r\n## The current behavior\r\n\r\n\r\n## The expected behavior\r\n",
-    "shouldBlock": false
-  },
-  {
-    "login": "ChenhLiwnl",
-    "userId": 49861565,
-    "content": "卧槽，OP！",
-    "shouldBlock": false
-  },
-  {
-    "login": "Heartfilia",
-    "userId": 41378211,
-    "content": "쓰레기 미국, 개원 도구상 정치 쓰레기 미국, 개원 도구상 정치",
-    "shouldBlock": false
   },
   {
     "login": "A-Merry",
@@ -558,6 +522,18 @@
     "shouldBlock": false
   },
   {
+    "login": "EugeneJao",
+    "userId": 12995034,
+    "content": "they have no principles,  only benefits",
+    "shouldBlock": false
+  },
+  {
+    "login": "EugeneJao",
+    "userId": 12995034,
+    "content": "NATO are the invader",
+    "shouldBlock": false
+  },
+  {
     "login": "Fivehorsemen",
     "userId": 59460677,
     "content": "Bug:  Almost all Chinese know  the cause of war between Russia and Ukraine is NATO , the biggest evil military organization(If you have memory and understand history in the past 30 years).\r\n",
@@ -567,12 +543,6 @@
     "login": "yxl-1314",
     "userId": 69795141,
     "content": "Bug:  我也来凑凑",
-    "shouldBlock": false
-  },
-  {
-    "login": "xuxubarca",
-    "userId": 13588020,
-    "content": "Bug:  Ukraine is Nazi. Only demons supported the Nazis <!--\r\n  Please provide a clear and concise description of what the bug is. Include\r\n  screenshots if needed. Please test using the latest version of the relevant\r\n  React packages to make sure your issue has not already been fixed.\r\n-->\r\n\r\nReact version:\r\n\r\n## Steps To Reproduce\r\n\r\n1.\r\n2.\r\n\r\n<!--\r\n  Your bug will get fixed much faster if we can run your code and it doesn't\r\n  have dependencies other than React. Issues without reproduction steps or\r\n  code examples may be immediately closed as not actionable.\r\n-->\r\n\r\nLink to code example:\r\n\r\n<!--\r\n  Please provide a CodeSandbox (https://codesandbox.io/s/new), a link to a\r\n  repository on GitHub, or provide a minimal code example that reproduces the\r\n  problem. You may provide a screenshot of the application if you think it is\r\n  relevant to your bug report. Here are some tips for providing a minimal\r\n  example: https://stackoverflow.com/help/mcve.\r\n-->\r\n\r\n## The current behavior\r\n\r\n\r\n## The expected behavior\r\n",
     "shouldBlock": false
   },
   {
@@ -597,7 +567,7 @@
     "login": "xdy4352968",
     "userId": 32317512,
     "content": " 欧美就是一群强盗，从上个世纪就开始，抢夺别人的财产，天天宣扬 科技无国界，体育无国界，艺术无国界， 然后呢，猫猫都得到了制裁，天天搞自己的圣母主义，真的恶心。 欧美就是一群强盗，从上个世纪就开始，抢夺别人的财产，天天宣扬 科技无国界，体育无国界，艺术无国界， 然后呢，猫猫都得到了制裁，天天搞自己的圣母主义，真的恶心。",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "15079698746",
@@ -609,6 +579,12 @@
     "login": "wangzhenxyz1",
     "userId": 1324712,
     "content": "丢人不",
+    "shouldBlock": false
+  },
+  {
+    "login": "hanszhou1024",
+    "userId": 15189316,
+    "content": "百度翻一下再发出来吧，你这英文看起来有点尴尬",
     "shouldBlock": false
   },
   {
@@ -684,6 +660,12 @@
     "shouldBlock": false
   },
   {
+    "login": "nyepi-3055",
+    "userId": 97597220,
+    "content": "> [华为为乌克兰人民遭受的灾难和损失感到遗憾计划给乌克兰提供免费网络设备/](https://www.reddit.com/r/China_irl/comments/t4c7az/%E5%8D%8E%E4%B8%BA%E4%B8%BA%E4%B9%8C%E5%85%8B%E5%85%B0%E4%BA%BA%E6%B0%91%E9%81%AD%E5%8F%97%E7%9A%84%E7%81%BE%E9%9A%BE%E5%92%8C%E6%8D%9F%E5%A4%B1%E6%84%9F%E5%88%B0%E9%81%97%E6%86%BE%E8%AE%A1%E5%88%92%E7%BB%99%E4%B9%8C%E5%85%8B%E5%85%B0%E6%8F%90%E4%BE%9B%E5%85%8D%E8%B4%B9%E7%BD%91%E7%BB%9C%E8%AE%BE%E5%A4%87/)\r\n\r\n说是删除了.那条言论的具体id呢,网页存档也行,能找到吗?谢谢.听说你们看到的都是真相",
+    "shouldBlock": true
+  },
+  {
     "login": "riminggit",
     "userId": 35957389,
     "content": "Bug: 人家 React 一个技术框架玩儿政治支持纳粹都不觉得丢脸，中国网民表达一下个人政见就担心友邦惊诧？中国人才走出纳粹的阴影还不到 100 年，React 做初一还不让反法西斯战争战胜国做十五了？ <!--\r\n  Please provide a clear and concise description of what the bug is. Include\r\n  screenshots if needed. Please test using the latest version of the relevant\r\n  React packages to make sure your issue has not already been fixed.\r\n-->\r\n\r\nReact version:\r\n\r\n## Steps To Reproduce\r\n\r\n1.\r\n2.\r\n\r\n<!--\r\n  Your bug will get fixed much faster if we can run your code and it doesn't\r\n  have dependencies other than React. Issues without reproduction steps or\r\n  code examples may be immediately closed as not actionable.\r\n-->\r\n\r\nLink to code example:\r\n\r\n<!--\r\n  Please provide a CodeSandbox (https://codesandbox.io/s/new), a link to a\r\n  repository on GitHub, or provide a minimal code example that reproduces the\r\n  problem. You may provide a screenshot of the application if you think it is\r\n  relevant to your bug report. Here are some tips for providing a minimal\r\n  example: https://stackoverflow.com/help/mcve.\r\n-->\r\n\r\n## The current behavior\r\n\r\n\r\n## The expected behavior\r\n",
@@ -746,7 +728,7 @@
   {
     "login": "chinatian",
     "userId": 3233111,
-    "content": "Bug: 评论里的烂人，都不是中国人，是一堆脑残！ <!--\r\n  Please provide a clear and concise description of what the bug is. Include\r\n  screenshots if needed. Please test using the latest version of the relevant\r\n  React packages to make sure your issue has not already been fixed.\r\n-->\r\n\r\nReact version:\r\n\r\n## Steps To Reproduce\r\n\r\n1.\r\n2.\r\n\r\n<!--\r\n  Your bug will get fixed much faster if we can run your code and it doesn't\r\n  have dependencies other than React. Issues without reproduction steps or\r\n  code examples may be immediately closed as not actionable.\r\n-->\r\n\r\nLink to code example:\r\n\r\n<!--\r\n  Please provide a CodeSandbox (https://codesandbox.io/s/new), a link to a\r\n  repository on GitHub, or provide a minimal code example that reproduces the\r\n  problem. You may provide a screenshot of the application if you think it is\r\n  relevant to your bug report. Here are some tips for providing a minimal\r\n  example: https://stackoverflow.com/help/mcve.\r\n-->\r\n\r\n## The current behavior\r\n\r\n\r\n## The expected behavior\r\n",
+    "content": "hi <!--\r\n  Please provide a clear and concise description of what the bug is. Include\r\n  screenshots if needed. Please test using the latest version of the relevant\r\n  React packages to make sure your issue has not already been fixed.\r\n-->\r\n\r\nReact version:\r\n\r\n## Steps To Reproduce\r\n\r\n1.\r\n2.\r\n\r\n<!--\r\n  Your bug will get fixed much faster if we can run your code and it doesn't\r\n  have dependencies other than React. Issues without reproduction steps or\r\n  code examples may be immediately closed as not actionable.\r\n-->\r\n\r\nLink to code example:\r\n\r\n<!--\r\n  Please provide a CodeSandbox (https://codesandbox.io/s/new), a link to a\r\n  repository on GitHub, or provide a minimal code example that reproduces the\r\n  problem. You may provide a screenshot of the application if you think it is\r\n  relevant to your bug report. Here are some tips for providing a minimal\r\n  example: https://stackoverflow.com/help/mcve.\r\n-->\r\n\r\n## The current behavior\r\n\r\n\r\n## The expected behavior\r\n",
     "shouldBlock": false
   },
   {
@@ -801,13 +783,13 @@
     "login": "RizhaoCai",
     "userId": 37952703,
     "content": "Correct.  Ukraine government is supporting some guys with minds of nazi. Does React wants to support nazi?",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "jozhi",
     "userId": 2418084,
     "content": "Bug: I feel so sad you bring politics to React. In my opinion, Support Ukraine government equal support nazi. I feel so sad you bring politics to React. In my opinion, Support Ukraine government equal support nazi.",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "Tliens",
@@ -856,12 +838,6 @@
     "userId": 1295210,
     "content": "Bug: 敲汉字的不一定是中国人毕竟五毛党也不只是中国有，媒体机构都能收买何况水军！ 战争都是悲哀的我们要思考的是如何避免战争！一味地指责没有用！",
     "shouldBlock": false
-  },
-  {
-    "login": "yang961226",
-    "userId": 32184945,
-    "content": "Bug: Fuck USA 俄罗斯核弹炸美帝，拜登舔普京菊花 <!--\r\n  Please provide a clear and concise description of what the bug is. Include\r\n  screenshots if needed. Please test using the latest version of the relevant\r\n  React packages to make sure your issue has not already been fixed.\r\n-->\r\n\r\nReact version:\r\n\r\n## Steps To Reproduce\r\n\r\n1.\r\n2.\r\n\r\n<!--\r\n  Your bug will get fixed much faster if we can run your code and it doesn't\r\n  have dependencies other than React. Issues without reproduction steps or\r\n  code examples may be immediately closed as not actionable.\r\n-->\r\n\r\nLink to code example:\r\n\r\n<!--\r\n  Please provide a CodeSandbox (https://codesandbox.io/s/new), a link to a\r\n  repository on GitHub, or provide a minimal code example that reproduces the\r\n  problem. You may provide a screenshot of the application if you think it is\r\n  relevant to your bug report. Here are some tips for providing a minimal\r\n  example: https://stackoverflow.com/help/mcve.\r\n-->\r\n\r\n## The current behavior\r\n\r\n\r\n## The expected behavior\r\n",
-    "shouldBlock": true
   },
   {
     "login": "SaltFish001",
@@ -936,6 +912,36 @@
     "shouldBlock": false
   },
   {
+    "login": "shuaohan991205",
+    "userId": 65755819,
+    "content": "站不起来了吗？",
+    "shouldBlock": false
+  },
+  {
+    "login": "Wendy199804",
+    "userId": 52653923,
+    "content": "不敢承认自己是中国人？？？",
+    "shouldBlock": false
+  },
+  {
+    "login": "dockcask",
+    "userId": 96729303,
+    "content": "劝可以，有好处的时候记得也隐藏中国人身份就行。",
+    "shouldBlock": false
+  },
+  {
+    "login": "Rile14929",
+    "userId": 30564620,
+    "content": "能站着把代码写了吗？",
+    "shouldBlock": false
+  },
+  {
+    "login": "dandananddada",
+    "userId": 7675681,
+    "content": "看开头【我真的气的快流眼泪了 】 我还以为是友军。\r\n原来不是，打扰了",
+    "shouldBlock": false
+  },
+  {
     "login": "nanwangjkl",
     "userId": 4200349,
     "content": "Bug: 大家不要再骂react了！ 我真的气的快流眼泪了，我请求大家停止不要再骂react不要再犯贱去issue里乱骂不要再捣乱觉得这事与自己无关了！！现在国内程序员攻击react库被外媒乌媒大量转载，导致外国公司开始出现了反华情绪，现在战火越来越激烈，极有可能从空袭演化为枪战。因为你们随口一句调侃而使得外国企业鄙视中国程序员，导致中国程序员被裁员，中国的开源库被删除！现在我们不得不把表露自己是中国人身份的一切特征都隐藏起来，害怕下一个被误伤的就是自己。当你们舒服躺在家里喝着奶茶刷着github发着玩笑话时，是我们这些在外企的程序员同胞在为你们的行为买单！不要再把同胞往火坑里推了！！",
@@ -951,7 +957,7 @@
     "login": "bgwd666",
     "userId": 42299982,
     "content": "Bug: 反战不反美, 拜登亲你嘴 ! 反战不反美, 拜登亲你嘴 !",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "CharlesZqikai",
@@ -975,7 +981,7 @@
     "login": "sun293529884",
     "userId": 10268233,
     "content": "Bug: TMD 就你US是圣母表 你们就是野兽 骨子里就带着侵略呢 CNMD <!--\r\n  Please provide a clear and concise description of what the bug is. Include\r\n  screenshots if needed. Please test using the latest version of the relevant\r\n  React packages to make sure your issue has not already been fixed.\r\n-->\r\n\r\nReact version:\r\n\r\n## Steps To Reproduce\r\n\r\n1.\r\n2.\r\n\r\n<!--\r\n  Your bug will get fixed much faster if we can run your code and it doesn't\r\n  have dependencies other than React. Issues without reproduction steps or\r\n  code examples may be immediately closed as not actionable.\r\n-->\r\n\r\nLink to code example:\r\n\r\n<!--\r\n  Please provide a CodeSandbox (https://codesandbox.io/s/new), a link to a\r\n  repository on GitHub, or provide a minimal code example that reproduces the\r\n  problem. You may provide a screenshot of the application if you think it is\r\n  relevant to your bug report. Here are some tips for providing a minimal\r\n  example: https://stackoverflow.com/help/mcve.\r\n-->\r\n\r\n## The current behavior\r\n\r\n\r\n## The expected behavior\r\n",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "nextdoorUncleLiu",
@@ -1008,10 +1014,34 @@
     "shouldBlock": false
   },
   {
+    "login": "chua1989",
+    "userId": 17613057,
+    "content": "看了你的标题，我只能说你的素质估计就是中国人的下限",
+    "shouldBlock": false
+  },
+  {
+    "login": "wjdxy172816",
+    "userId": 11540110,
+    "content": "你发一条能领到多少钱?最近兄弟我缺钱用,我也想零点狗粮吃,赚钱嘛,不寒碜.",
+    "shouldBlock": false
+  },
+  {
+    "login": "SAFEluren",
+    "userId": 79032826,
+    "content": "素质高能让你不狗叫？",
+    "shouldBlock": false
+  },
+  {
+    "login": "Rile14929",
+    "userId": 30564620,
+    "content": "西方现在怎么对俄罗斯，之后就会怎么对中国",
+    "shouldBlock": false
+  },
+  {
     "login": "roseduan",
     "userId": 22375523,
     "content": "一群垃圾在这里丢人现眼 骂得越开心，只会暴露中国人的素质下限。\r\nAshamed of them",
-    "shouldBlock": true
+    "shouldBlock": false
   },
   {
     "login": "krislc",
@@ -1038,16 +1068,22 @@
     "shouldBlock": false
   },
   {
+    "login": "wjdxy172816",
+    "userId": 11540110,
+    "content": "注意狗头,当心误伤友军.",
+    "shouldBlock": false
+  },
+  {
     "login": "likyh",
     "userId": 3294100,
     "content": "Bug: Support Ukraine and Boycott Russia 支持🇺🇦🇺🇦 抵制🇷🇺🇷🇺 1. Russia invade Vietnam on 1961.5\r\n2. Russia invade DOMINICAN REPUBLIC in 1962\r\n3. Russia invade Cambodia in 1970\r\n4. Russia invade Yemen on 1971.4\r\n5. Russia invade Libya on 1986.3\r\n6. Russia invade Iran on 1987.7\r\n7. Russia invade Panama in 1989\r\n8. Russia invade Iraq in 1991\r\n9. Russia invade Federal Republic of Yugoslavia in 1999\r\n10. Russia invade Afghanistan in 2001\r\n11. Russia invade Iraq in 2003\r\n12. Russia lead NATO expand to USA's neighbouring country in 2022\r\n13. ……\r\nSo Why Can't We Support Ukraine Gain national independence From lawbreaking Capitalist ? \r\n\r\n![image](https://user-images.githubusercontent.com/3294100/156546657-cc729ed2-f93a-4b23-99ae-98a599d59822.png)\r\n",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "fuyapay",
     "userId": 77828238,
     "content": "TMD 就你US是圣母表 你们就是野兽 骨子里就带着侵略呢 CNMD <!--\r\n  Please provide a clear and concise description of what the bug is. Include\r\n  screenshots if needed. Please test using the latest version of the relevant\r\n  React packages to make sure your issue has not already been fixed.\r\n-->\r\n\r\nReact version:\r\n\r\n## Steps To Reproduce\r\n\r\n1.\r\n2.\r\n\r\n<!--\r\n  Your bug will get fixed much faster if we can run your code and it doesn't\r\n  have dependencies other than React. Issues without reproduction steps or\r\n  code examples may be immediately closed as not actionable.\r\n-->\r\n\r\nLink to code example:\r\n\r\n<!--\r\n  Please provide a CodeSandbox (https://codesandbox.io/s/new), a link to a\r\n  repository on GitHub, or provide a minimal code example that reproduces the\r\n  problem. You may provide a screenshot of the application if you think it is\r\n  relevant to your bug report. Here are some tips for providing a minimal\r\n  example: https://stackoverflow.com/help/mcve.\r\n-->\r\n\r\n## The current behavior\r\n\r\n\r\n## The expected behavior\r\n",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "chunyao",
@@ -1131,6 +1167,12 @@
     "login": "Willmind",
     "userId": 23290624,
     "content": "你是傻逼，被人咬了还要圣母婊",
+    "shouldBlock": true
+  },
+  {
+    "login": "lostmariah",
+    "userId": 41923527,
+    "content": "差不多得了,傻逼",
     "shouldBlock": true
   },
   {
@@ -1317,7 +1359,7 @@
     "login": "yangxiansheng1992",
     "userId": 40448337,
     "content": "Bug: 反战不反美，心里必有鬼 ",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "fuyapay",
@@ -1368,6 +1410,12 @@
     "shouldBlock": false
   },
   {
+    "login": "yuchenyang1994",
+    "userId": 15642852,
+    "content": "Bug: 周逸群别看了，bug写完了吗？ <!--\r\n  Please provide a clear and concise description of what the bug is. Include\r\n  screenshots if needed. Please test using the latest version of the relevant\r\n  React packages to make sure your issue has not already been fixed.\r\n-->\r\n\r\nReact version:\r\n\r\n## Steps To Reproduce\r\n\r\n1.\r\n2.\r\n\r\n<!--\r\n  Your bug will get fixed much faster if we can run your code and it doesn't\r\n  have dependencies other than React. Issues without reproduction steps or\r\n  code examples may be immediately closed as not actionable.\r\n-->\r\n\r\nLink to code example:\r\n\r\n<!--\r\n  Please provide a CodeSandbox (https://codesandbox.io/s/new), a link to a\r\n  repository on GitHub, or provide a minimal code example that reproduces the\r\n  problem. You may provide a screenshot of the application if you think it is\r\n  relevant to your bug report. Here are some tips for providing a minimal\r\n  example: https://stackoverflow.com/help/mcve.\r\n-->\r\n\r\n## The current behavior\r\n\r\n\r\n## The expected behavior\r\n",
+    "shouldBlock": false
+  },
+  {
     "login": "wdapp",
     "userId": 22388508,
     "content": "我也留个发言 <!--\r\n  Please provide a clear and concise description of what the bug is. Include\r\n  screenshots if needed. Please test using the latest version of the relevant\r\n  React packages to make sure your issue has not already been fixed.\r\n-->\r\n\r\nReact version:\r\n\r\n## Steps To Reproduce\r\n\r\n1.\r\n2.\r\n\r\n<!--\r\n  Your bug will get fixed much faster if we can run your code and it doesn't\r\n  have dependencies other than React. Issues without reproduction steps or\r\n  code examples may be immediately closed as not actionable.\r\n-->\r\n\r\nLink to code example:\r\n\r\n<!--\r\n  Please provide a CodeSandbox (https://codesandbox.io/s/new), a link to a\r\n  repository on GitHub, or provide a minimal code example that reproduces the\r\n  problem. You may provide a screenshot of the application if you think it is\r\n  relevant to your bug report. Here are some tips for providing a minimal\r\n  example: https://stackoverflow.com/help/mcve.\r\n-->\r\n\r\n## The current behavior\r\n\r\n\r\n## The expected behavior\r\n",
@@ -1395,84 +1443,6 @@
     "login": "qq840682834",
     "userId": 54267190,
     "content": "Bug: 操你妈 勾八东西",
-    "shouldBlock": true
-  },
-  {
-    "login": "ghost",
-    "userId": 10137,
-    "content": "支那笑话",
-    "shouldBlock": true
-  },
-  {
-    "login": "icytailu",
-    "userId": 25860257,
-    "content": "vue作者尤雨溪也支持乌克兰？？？？",
-    "shouldBlock": true
-  },
-  {
-    "login": "xianyun666",
-    "userId": 22339210,
-    "content": "> vue作者尤雨溪也支持乌克兰？？？？\r\n\r\n推特支持了，微博不敢发",
-    "shouldBlock": true
-  },
-  {
-    "login": "SaltFish001",
-    "userId": 42058801,
-    "content": "笑死, 尤雨溪好歹知道Vue作为开源库不应该参杂政治, react跟node做了啥",
-    "shouldBlock": true
-  },
-  {
-    "login": "kael777",
-    "userId": 19182628,
-    "content": "湾湾来电了吗",
-    "shouldBlock": true
-  },
-  {
-    "login": "doresearch",
-    "userId": 12741598,
-    "content": "> 一群支持俄的垃圾拿着俄罗斯放出的假消息和墙内的消息来喷反抗军\r\n\r\nreact政治化才会被冲，社区管理员不作为，明显有政治倾向。一群网络暴民，支持乌克兰，搞笑不搞笑？那么射杀平民的人麻烦你去抓。\r\n",
-    "shouldBlock": true
-  },
-  {
-    "login": "R1hug0",
-    "userId": 8827342,
-    "content": "> 华为都支持了，把爷笑死了\r\n\r\n马斯克哭了我要提供星链的理由呢，乌政府快来用吧",
-    "shouldBlock": true
-  },
-  {
-    "login": "qyingkou",
-    "userId": 46431594,
-    "content": "#23700",
-    "shouldBlock": false
-  },
-  {
-    "login": "Heartfilia",
-    "userId": 41378211,
-    "content": "> \r\n\r\n麻烦你点进去看看 华为在全球基本都有地方账号 做运营服务的 你这只是乌克兰的官方账号而已 你就一个连接中包含huawei名字就想来带节奏？",
-    "shouldBlock": true
-  },
-  {
-    "login": "Jiaoyang001",
-    "userId": 49422258,
-    "content": "oh  no  后排观众围观吃瓜",
-    "shouldBlock": false
-  },
-  {
-    "login": "puyuanzhang",
-    "userId": 69761451,
-    "content": "\r\n![image](https://user-images.githubusercontent.com/69761451/156548893-58e7b046-39dc-47d1-bc72-57680ec20920.png)\r\n",
-    "shouldBlock": false
-  },
-  {
-    "login": "SaltFish001",
-    "userId": 42058801,
-    "content": "> ![image](https://user-images.githubusercontent.com/69761451/156548893-58e7b046-39dc-47d1-bc72-57680ec20920.png)\r\n\r\nhttps://github.com/vuejs/vue/pull/12483\r\n![1db207001865a125d41affded7a6ee7](https://user-images.githubusercontent.com/42058801/156549306-8beae5f7-d9c5-41ac-9f2b-a0e986ebced7.png)\r\n\r\n",
-    "shouldBlock": false
-  },
-  {
-    "login": "xianyun666",
-    "userId": 22339210,
-    "content": "GitHub沙雕真多，react支持乌克兰，不用了，垃圾，vue最牛，明天公司就换vue。什么vue作者尤雨溪也支持乌克兰了？。。。Bug:  GitHub沙雕真多，react支持乌克兰，不用了，垃圾，vue最牛，明天公司就换vue。什么vue作者尤雨溪也支持乌克兰了？。。。",
     "shouldBlock": true
   },
   {
@@ -1506,12 +1476,6 @@
     "shouldBlock": false
   },
   {
-    "login": "xianyun666",
-    "userId": 22339210,
-    "content": "GitHub沙雕真多，react支持乌克兰，不用了，垃圾，vue最牛，明天公司就换vue。什么vue作者尤雨溪也支持乌克兰了？。。。",
-    "shouldBlock": true
-  },
-  {
     "login": "huzw1995",
     "userId": 37033089,
     "content": "> \r\n\r\n+1 真的无语，一边用着人的技术吃饭，一边端着碗骂",
@@ -1536,6 +1500,18 @@
     "shouldBlock": false
   },
   {
+    "login": "Wendy199804",
+    "userId": 52653923,
+    "content": "虽然但是 vue团队也不止中国人   ",
+    "shouldBlock": false
+  },
+  {
+    "login": "biu9",
+    "userId": 69721411,
+    "content": "您能决定公司用啥框架？",
+    "shouldBlock": false
+  },
+  {
     "login": "liaogn",
     "userId": 66709921,
     "content": "Bug: 滚吧，从此只用vue <!--\r\n  Please provide a clear and concise description of what the bug is. Include\r\n  screenshots if needed. Please test using the latest version of the relevant\r\n  React packages to make sure your issue has not already been fixed.\r\n-->\r\n\r\nReact version:\r\n\r\n## Steps To Reproduce\r\n\r\n1.\r\n2.\r\n\r\n<!--\r\n  Your bug will get fixed much faster if we can run your code and it doesn't\r\n  have dependencies other than React. Issues without reproduction steps or\r\n  code examples may be immediately closed as not actionable.\r\n-->\r\n\r\nLink to code example:\r\n\r\n<!--\r\n  Please provide a CodeSandbox (https://codesandbox.io/s/new), a link to a\r\n  repository on GitHub, or provide a minimal code example that reproduces the\r\n  problem. You may provide a screenshot of the application if you think it is\r\n  relevant to your bug report. Here are some tips for providing a minimal\r\n  example: https://stackoverflow.com/help/mcve.\r\n-->\r\n\r\n## The current behavior\r\n\r\n\r\n## The expected behavior\r\n",
@@ -1546,24 +1522,6 @@
     "userId": 44748591,
     "content": "cnpm uninstall react  <!--\r\n  Please provide a clear and concise description of what the bug is. Include\r\n  screenshots if needed. Please test using the latest version of the relevant\r\n  React packages to make sure your issue has not already been fixed.\r\n-->\r\n\r\nReact version:\r\n\r\n## Steps To Reproduce\r\n\r\n1.\r\n2.\r\n\r\n<!--\r\n  Your bug will get fixed much faster if we can run your code and it doesn't\r\n  have dependencies other than React. Issues without reproduction steps or\r\n  code examples may be immediately closed as not actionable.\r\n-->\r\n\r\nLink to code example:\r\n\r\n<!--\r\n  Please provide a CodeSandbox (https://codesandbox.io/s/new), a link to a\r\n  repository on GitHub, or provide a minimal code example that reproduces the\r\n  problem. You may provide a screenshot of the application if you think it is\r\n  relevant to your bug report. Here are some tips for providing a minimal\r\n  example: https://stackoverflow.com/help/mcve.\r\n-->\r\n\r\n## The current behavior\r\n\r\n\r\n## The expected behavior\r\n",
     "shouldBlock": false
-  },
-  {
-    "login": "bravekingzhang",
-    "userId": 4476322,
-    "content": "美国，才是战争的罪魁祸首，作为大国，不想办法阻止战争，尽然干倒卖武器给乌克兰的勾当，真龌龊",
-    "shouldBlock": true
-  },
-  {
-    "login": "bravekingzhang",
-    "userId": 4476322,
-    "content": "美国不停的煽风点火，真是垃圾中的战斗机",
-    "shouldBlock": true
-  },
-  {
-    "login": "bravekingzhang",
-    "userId": 4476322,
-    "content": "Bug: https://github.com/bravekingzhang/fuck-america https://github.com/bravekingzhang/fuck-america",
-    "shouldBlock": true
   },
   {
     "login": "ghost",
@@ -1587,7 +1545,7 @@
     "login": "liaogn",
     "userId": 66709921,
     "content": "是不是等到哪一天react标注支持“弯弯“，你才会醒，人家都是直接全面舆论攻击你的准盟友、极其重要的经济（能源）合作伙伴了。大家帮俄罗斯说话你说人家孝子？你是汉奸吧",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "StarLevi",
@@ -1599,12 +1557,6 @@
     "login": "ZerroRt",
     "userId": 36638291,
     "content": "> > > Fuck chinks\r\n> > \r\n> > \r\n> > Before this, I'll first FUCK your all families for 1000 times.\r\n> \r\n> 支那猪这脑子还骂人啊\r\n\r\n翻来覆去就这两句话，这点脑子还是趁早remake吧",
-    "shouldBlock": true
-  },
-  {
-    "login": "bravekingzhang",
-    "userId": 4476322,
-    "content": "```javascript\r\nwhile(true){\r\n    console.log('草你妈的，美国狗们')\r\n}\r\n```\r\n\r\n我不支持战争，战争不是俄挑起的，挑起战争的是美国狗，美国狗们不得好死。",
     "shouldBlock": true
   },
   {
@@ -1653,6 +1605,12 @@
     "login": "ZerroRt",
     "userId": 36638291,
     "content": "> > > > > Fuck chinks\r\n> > > > \r\n> > > > \r\n> > > > Before this, I'll first FUCK your all families for 1000 times.\r\n> > > \r\n> > > \r\n> > > 支那猪这脑子还骂人啊\r\n> > \r\n> > \r\n> > 翻来覆去就这两句话，这点脑子还是趁早remake吧\r\n> \r\n> 你个司马废物用个remake太有脑子\r\n\r\n你看，remake之后这个脑容量果然大了吧，都会换台词了",
+    "shouldBlock": true
+  },
+  {
+    "login": "Anivie",
+    "userId": 88354708,
+    "content": "> > > > > > Fuck chinks\r\n> > > > > \r\n> > > > > \r\n> > > > > Before this, I'll first FUCK your all families for 1000 times.\r\n> > > > \r\n> > > > \r\n> > > > 支那猪这脑子还骂人啊\r\n> > > \r\n> > > \r\n> > > 翻来覆去就这两句话，这点脑子还是趁早remake吧\r\n> > \r\n> > \r\n> > 你个司马废物用个remake太有脑子\r\n> \r\n> 你看，remake之后这个脑容量果然大了吧，都会换台词了\r\n\r\n鼠鼠他呀，remake完变狗狗了哦",
     "shouldBlock": true
   },
   {
@@ -1809,6 +1767,12 @@
     "login": "doresearch",
     "userId": 12741598,
     "content": "![image](https://user-images.githubusercontent.com/12741598/156546998-ef0f2043-bc05-4078-9224-6b35852f3cda.png)\r\n请删除你们项目的政治观点，并不想干涉你们个人观点",
+    "shouldBlock": false
+  },
+  {
+    "login": "pengzexuan2001",
+    "userId": 87429578,
+    "content": "**希望React能够删除掉相关政治观点，这是一个开源项目，您们的政治观点没有任何资格代表我们开源社区所有人的政治观点，对次，我本人表示强烈反对。** ",
     "shouldBlock": false
   },
   {
@@ -1998,12 +1962,6 @@
     "shouldBlock": false
   },
   {
-    "login": "xianyun666",
-    "userId": 22339210,
-    "content": "换啥？换VUE？VUE作者尤雨溪推特也公开支持乌克兰了。\r\n\r\n",
-    "shouldBlock": true
-  },
-  {
     "login": "lwz1761",
     "userId": 50914034,
     "content": "> \r\n\r\n那换他妈的用原生",
@@ -2094,6 +2052,12 @@
     "shouldBlock": true
   },
   {
+    "login": "mapolun",
+    "userId": 33946264,
+    "content": "小日本干嘛，艹",
+    "shouldBlock": false
+  },
+  {
     "login": "DemoKuma",
     "userId": 29698005,
     "content": "Bug: あなたの国は馬鹿ですか? <!--\r\n  Please provide a clear and concise description of what the bug is. Include\r\n  screenshots if needed. Please test using the latest version of the relevant\r\n  React packages to make sure your issue has not already been fixed.\r\n-->\r\n\r\nReact version:\r\n\r\n## Steps To Reproduce\r\n\r\n1.\r\n2.\r\n\r\n<!--\r\n  Your bug will get fixed much faster if we can run your code and it doesn't\r\n  have dependencies other than React. Issues without reproduction steps or\r\n  code examples may be immediately closed as not actionable.\r\n-->\r\n\r\nLink to code example:\r\n\r\n<!--\r\n  Please provide a CodeSandbox (https://codesandbox.io/s/new), a link to a\r\n  repository on GitHub, or provide a minimal code example that reproduces the\r\n  problem. You may provide a screenshot of the application if you think it is\r\n  relevant to your bug report. Here are some tips for providing a minimal\r\n  example: https://stackoverflow.com/help/mcve.\r\n-->\r\n\r\n## The current behavior\r\n\r\n\r\n## The expected behavior\r\n",
@@ -2181,7 +2145,7 @@
     "login": "impwj",
     "userId": 14815019,
     "content": "理性发言，莫被美国佬带节奏，战争没有赢家。 ",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "JCqiu",
@@ -2337,12 +2301,6 @@
     "login": "shaoyifan1999",
     "userId": 42880495,
     "content": "傻逼",
-    "shouldBlock": true
-  },
-  {
-    "login": "xianyun666",
-    "userId": 22339210,
-    "content": "换啥？换VUE？VUE作者尤雨溪推特也公开支持乌克兰了。",
     "shouldBlock": true
   },
   {
@@ -2619,7 +2577,7 @@
     "login": "likeSo",
     "userId": 12247340,
     "content": "你在说什么狗屁东西，中国不是还有你这个狗汉奸吗？\r\n美利坚入侵了阿富汗和伊拉克还不让说了？\r\n是所有的二狗子都像你这样又当又立吗？还是说你福岛水喝多了",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "hulalaroom",
@@ -2649,13 +2607,13 @@
     "login": "qq476286840",
     "userId": 51110412,
     "content": "Ура!\r\n狗汉奸，二鬼子，",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "WPolly",
     "userId": 13913770,
     "content": "> 你在说什么狗屁东西，中国不是还有你这个狗汉奸吗？ 美利坚入侵了阿富汗和伊拉克还不让说了？ 是所有的二狗子都像你这样又当又立吗？还是说你福岛水喝多了\r\n\r\ncnmd，全世界独裁和恐怖分子都该死，死晚了，你这个反人类的傻缺玩意，不要再回复我",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "longshao512",
@@ -2727,7 +2685,7 @@
     "login": "VerneZhong",
     "userId": 28047190,
     "content": "> 坚决打击美国佬\r\n\r\n那就别用GitHub啊",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "GJW666888",
@@ -3009,7 +2967,7 @@
     "login": "charlesXu86",
     "userId": 13271848,
     "content": "Bug: 美国佬可以的 <!--\r\n  Please provide a clear and concise description of what the bug is. Include\r\n  screenshots if needed. Please test using the latest version of the relevant\r\n  React packages to make sure your issue has not already been fixed.\r\n-->\r\n\r\nReact version:\r\n\r\n## Steps To Reproduce\r\n\r\n1.\r\n2.\r\n\r\n<!--\r\n  Your bug will get fixed much faster if we can run your code and it doesn't\r\n  have dependencies other than React. Issues without reproduction steps or\r\n  code examples may be immediately closed as not actionable.\r\n-->\r\n\r\nLink to code example:\r\n\r\n<!--\r\n  Please provide a CodeSandbox (https://codesandbox.io/s/new), a link to a\r\n  repository on GitHub, or provide a minimal code example that reproduces the\r\n  problem. You may provide a screenshot of the application if you think it is\r\n  relevant to your bug report. Here are some tips for providing a minimal\r\n  example: https://stackoverflow.com/help/mcve.\r\n-->\r\n\r\n## The current behavior\r\n\r\n\r\n## The expected behavior\r\n",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "zhaoyongjie",
@@ -3129,7 +3087,7 @@
     "login": "cuimaomao0123",
     "userId": 64642748,
     "content": "俄罗斯牛逼！搞事的都是美国佬，lowB! <!--\r\n  Please provide a clear and concise description of what the bug is. Include\r\n  screenshots if needed. Please test using the latest version of the relevant\r\n  React packages to make sure your issue has not already been fixed.\r\n-->\r\n\r\nReact version:\r\n\r\n## Steps To Reproduce\r\n\r\n1.\r\n2.\r\n\r\n<!--\r\n  Your bug will get fixed much faster if we can run your code and it doesn't\r\n  have dependencies other than React. Issues without reproduction steps or\r\n  code examples may be immediately closed as not actionable.\r\n-->\r\n\r\nLink to code example:\r\n\r\n<!--\r\n  Please provide a CodeSandbox (https://codesandbox.io/s/new), a link to a\r\n  repository on GitHub, or provide a minimal code example that reproduces the\r\n  problem. You may provide a screenshot of the application if you think it is\r\n  relevant to your bug report. Here are some tips for providing a minimal\r\n  example: https://stackoverflow.com/help/mcve.\r\n-->\r\n\r\n## The current behavior\r\n\r\n\r\n## The expected behavior\r\n",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "hancao97",
@@ -3308,8 +3266,14 @@
   {
     "login": "colordove",
     "userId": 11832969,
+    "content": "Support Ukraine！",
+    "shouldBlock": true
+  },
+  {
+    "login": "colordove",
+    "userId": 11832969,
     "content": "Bug: Apologize for the stupidity and the Nazis <!--\r\n  I apologize for the stupidity and the Nazis of these people, China is known to have a Great Firewall and they are always watching the controlled news and propaganda that makes them so crazy.\r\n\r\n  As a developer from China, I Support Ukraine! Don't be angry with them, they're just brainwashed poor people.\r\n-->\r\n\r\nReact version:\r\n\r\n## Steps To Reproduce\r\n  I apologize for the stupidity and the Nazis of these people, China is known to have a Great Firewall and they are always watching the controlled news and propaganda that makes them so crazy.\r\n\r\n  As a developer from China, I Support Ukraine! \r\n\r\n<!--\r\n  Your bug will get fixed much faster if we can run your code and it doesn't\r\n  have dependencies other than React. Issues without reproduction steps or\r\n  code examples may be immediately closed as not actionable.\r\n-->\r\n\r\nLink to code example:\r\n\r\n<!--\r\n  Please provide a CodeSandbox (https://codesandbox.io/s/new), a link to a\r\n  repository on GitHub, or provide a minimal code example that reproduces the\r\n  problem. You may provide a screenshot of the application if you think it is\r\n  relevant to your bug report. Here are some tips for providing a minimal\r\n  example: https://stackoverflow.com/help/mcve.\r\n-->\r\n\r\n## The current behavior\r\n\r\n\r\n## The expected behavior\r\n",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "xiebanglong",
@@ -3333,7 +3297,7 @@
     "login": "zhenquan321",
     "userId": 17467632,
     "content": "Bug: 挑唆战争，吃人血馒头的美国~，垃圾 我他么要制裁我家的美短~，一个月不能吃罐头。",
-    "shouldBlock": true
+    "shouldBlock": false
   },
   {
     "login": "qlusunshine",
@@ -3558,12 +3522,6 @@
     "shouldBlock": true
   },
   {
-    "login": "xianyun666",
-    "userId": 22339210,
-    "content": "666",
-    "shouldBlock": false
-  },
-  {
     "login": "ChineseHandsomeBoy",
     "userId": 26851263,
     "content": "那个吊毛在哪里,我要喷他,我才 TM 不管 谁对谁错,俄罗斯不能输就对了,输了我们就是下一个针对的对象,别给我说人权和平什么的,狗屁,只有活的滋润的人才配享有人权和和平,不信的话就去问问 阿富汗和叙利亚人民,美国仅仅用了一瓶不知道什么玩意的东西就入侵伊拉克,人权和平在哪里? TM 活着才能享受这些,再者乌克兰在冬奥开始就挑衅俄罗斯,挨打活该,俄罗斯殴打乌克兰时,冬奥已经结束,还有一个问题是 乌克兰也 TM 算主权国家? 韩国都比乌克兰主权多,尤雨溪人家现居美国,说不定那天就成美国人了, 身为中国人,支持乌克兰,这种人要么是蠢,要么是坏.",
@@ -3616,12 +3574,6 @@
     "userId": 23256312,
     "content": "vue也脏了\r\n\r\n![image](https://user-images.githubusercontent.com/23256312/156542365-f455f2af-fb3b-4e76-9fce-70fbc013288b.png)\r\n",
     "shouldBlock": false
-  },
-  {
-    "login": "xianyun666",
-    "userId": 22339210,
-    "content": "换啥？换VUE？VUE作者尤雨溪推特也公开支持乌克兰了。\r\n\r\n",
-    "shouldBlock": true
   },
   {
     "login": "GeniusBrother",
@@ -3681,7 +3633,7 @@
     "login": "colossalleaf",
     "userId": 40055404,
     "content": "美国赶紧解散，垃圾国家 <!--\r\n  Please provide a clear and concise description of what the bug is. Include\r\n  screenshots if needed. Please test using the latest version of the relevant\r\n  React packages to make sure your issue has not already been fixed.\r\n-->\r\n\r\nReact version:\r\n\r\n## Steps To Reproduce\r\n\r\n1.\r\n2.\r\n\r\n<!--\r\n  Your bug will get fixed much faster if we can run your code and it doesn't\r\n  have dependencies other than React. Issues without reproduction steps or\r\n  code examples may be immediately closed as not actionable.\r\n-->\r\n\r\nLink to code example:\r\n\r\n<!--\r\n  Please provide a CodeSandbox (https://codesandbox.io/s/new), a link to a\r\n  repository on GitHub, or provide a minimal code example that reproduces the\r\n  problem. You may provide a screenshot of the application if you think it is\r\n  relevant to your bug report. Here are some tips for providing a minimal\r\n  example: https://stackoverflow.com/help/mcve.\r\n-->\r\n\r\n## The current behavior\r\n\r\n\r\n## The expected behavior\r\n",
-    "shouldBlock": true
+    "shouldBlock": false
   },
   {
     "login": "v-limc",
@@ -3705,48 +3657,12 @@
     "login": "1120040377",
     "userId": 25653199,
     "content": "I think America and its henchmen are the real terrorists.\r\nアメリカとその子分は本当のテロリストだと思います。 \r\nJe pense que l'Amérique et ses sbires sont de vrais terroristes. \r\nЯ думаю, что Америка и ее приспешники — настоящие террористы. \r\n\r\nAmerican bitch suck my big dick!!!!\r\nand [awesome-long](https://github.com/awesome-long) is a imperialist dog\r\n",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "FatherOfAmerican",
     "userId": 24469700,
     "content": "Bug: American bitch suck my big dick!!!! Fuck America! Fuck NATO! Come on Russia!!! American bitch suck my big dick!!!!",
-    "shouldBlock": true
-  },
-  {
-    "login": "1120040377",
-    "userId": 25653199,
-    "content": "乌拉~",
-    "shouldBlock": true
-  },
-  {
-    "login": "uourl-com",
-    "userId": 32840401,
-    "content": "乌拉~",
-    "shouldBlock": true
-  },
-  {
-    "login": "OnlyForYouYaner",
-    "userId": 44225329,
-    "content": "乌拉!",
-    "shouldBlock": true
-  },
-  {
-    "login": "tal007",
-    "userId": 25813059,
-    "content": "乌拉",
-    "shouldBlock": true
-  },
-  {
-    "login": "gebilaofan",
-    "userId": 46524158,
-    "content": "乌拉~",
-    "shouldBlock": true
-  },
-  {
-    "login": "bravekingzhang",
-    "userId": 4476322,
-    "content": "Bug: 美国狗不得好死，乌拉 ",
     "shouldBlock": true
   },
   {
@@ -3855,7 +3771,7 @@
     "login": "Bosn",
     "userId": 1892986,
     "content": "@cybird0 React官网有挂support Ukraine，所以不是大家一厢情愿，是技术软件它确实正在做政治宣传。",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "portgo",
@@ -4029,7 +3945,7 @@
     "login": "colossalleaf",
     "userId": 40055404,
     "content": "Bug: 垃圾 <!--\r\n  Please provide a clear and concise description of what the bug is. Include\r\n  screenshots if needed. Please test using the latest version of the relevant\r\n  React packages to make sure your issue has not already been fixed.\r\n-->\r\n\r\nReact version:\r\n\r\n## Steps To Reproduce\r\n\r\n1.\r\n2.\r\n\r\n<!--\r\n  Your bug will get fixed much faster if we can run your code and it doesn't\r\n  have dependencies other than React. Issues without reproduction steps or\r\n  code examples may be immediately closed as not actionable.\r\n-->\r\n\r\nLink to code example:\r\n\r\n<!--\r\n  Please provide a CodeSandbox (https://codesandbox.io/s/new), a link to a\r\n  repository on GitHub, or provide a minimal code example that reproduces the\r\n  problem. You may provide a screenshot of the application if you think it is\r\n  relevant to your bug report. Here are some tips for providing a minimal\r\n  example: https://stackoverflow.com/help/mcve.\r\n-->\r\n\r\n## The current behavior\r\n\r\n\r\n## The expected behavior\r\n",
-    "shouldBlock": true
+    "shouldBlock": false
   },
   {
     "login": "awesome-long",
@@ -4281,7 +4197,7 @@
     "login": "chengjiaxin5",
     "userId": 37739408,
     "content": "罗刹人必将淦死虚伪的欧美强盗！虚假自由和民主让我恶心！ Europe and the United States are evil. While talking about freedom and democracy, they provoked wars everywhere, killing thousands of people! As a human I have a deep hatred for them",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "FatherOfAmerican",
@@ -4683,7 +4599,7 @@
     "login": "wangqi7916",
     "userId": 22906872,
     "content": "Bug: 垃圾网站 <!--\r\n  Please provide a clear and concise description of what the bug is. Include\r\n  screenshots if needed. Please test using the latest version of the relevant\r\n  React packages to make sure your issue has not already been fixed.\r\n-->\r\n\r\nReact version:\r\n\r\n## Steps To Reproduce\r\n\r\n1.\r\n2.\r\n\r\n<!--\r\n  Your bug will get fixed much faster if we can run your code and it doesn't\r\n  have dependencies other than React. Issues without reproduction steps or\r\n  code examples may be immediately closed as not actionable.\r\n-->\r\n\r\nLink to code example:\r\n\r\n<!--\r\n  Please provide a CodeSandbox (https://codesandbox.io/s/new), a link to a\r\n  repository on GitHub, or provide a minimal code example that reproduces the\r\n  problem. You may provide a screenshot of the application if you think it is\r\n  relevant to your bug report. Here are some tips for providing a minimal\r\n  example: https://stackoverflow.com/help/mcve.\r\n-->\r\n\r\n## The current behavior\r\n\r\n\r\n## The expected behavior\r\n",
-    "shouldBlock": true
+    "shouldBlock": false
   },
   {
     "login": "Alarikshaw",
@@ -4914,138 +4830,6 @@
     "shouldBlock": true
   },
   {
-    "login": "lostpupil",
-    "userId": 2015695,
-    "content": "@zhaoyongjie 当了婊子还立牌坊吗？\r\n",
-    "shouldBlock": false
-  },
-  {
-    "login": "rio-2607",
-    "userId": 12388370,
-    "content": "Imperialism is a paper tiger\r\n",
-    "shouldBlock": false
-  },
-  {
-    "login": "1120040377",
-    "userId": 25653199,
-    "content": "帝国主义亡我之心不死",
-    "shouldBlock": true
-  },
-  {
-    "login": "Cherry-Peng",
-    "userId": 52364774,
-    "content": "> React Development Group I am very ashamed of these comments as a Chinese. Please close this issue.\r\n\r\nrnm",
-    "shouldBlock": false
-  },
-  {
-    "login": "vk-auw628",
-    "userId": 98594590,
-    "content": "> React Development Group I am very ashamed of these comments as a Chinese. Please close this issue.\r\n\r\n这还有忙着磕头的呢",
-    "shouldBlock": false
-  },
-  {
-    "login": "Cherry-Peng",
-    "userId": 52364774,
-    "content": "@zhaoyongjie 憨批是吧，要不要我卖你几张反思券，拿去反思反思",
-    "shouldBlock": false
-  },
-  {
-    "login": "fengxiaotx",
-    "userId": 8871017,
-    "content": "> React Development Group I am very ashamed of these comments as a Chinese. Please close this issue.\r\n\r\n作为一个没骨头的中国人 你是应该感到羞愧     你可以自己做奴才 不要扯上中国人  你也配？",
-    "shouldBlock": false
-  },
-  {
-    "login": "Eve-Sama",
-    "userId": 30228406,
-    "content": "> React Development Group I am very ashamed of these comments as a Chinese. Please close this issue.\r\n\r\n你是什么牛马东西啊? 死歌去你家放大都能空大. 傻逼玩意. 自己没想明白就把嘴闭上, 这种歪屁股的事情, 要么你蠢要么你坏. 被那么多人冲还没明白自己是什么东西吗? 会写点开源了不起了? 拎不清自己的血是怎么流的了? 不知道你今天能安全在中国写代码是用什么东西换来的了? 草拟吗的狗东西",
-    "shouldBlock": true
-  },
-  {
-    "login": "fengxiaotx",
-    "userId": 8871017,
-    "content": "人家美国人 支持美国霸权 搞乱世界  那是人家的事    一个中国人 跑过来跪下来  还羞愧   真是滑稽  ",
-    "shouldBlock": false
-  },
-  {
-    "login": "hxnets",
-    "userId": 32917172,
-    "content": "操你妈了个大血逼，支持俄罗斯，消灭乌克兰纳粹。\r\nFuck you, you bloody bastard, supporting Russia, exterminating the Nazis in Ukraine.\r\nПошел ты на хуй, поддерживай россию, уничтожь украинских нацистов.",
-    "shouldBlock": true
-  },
-  {
-    "login": "hxnets",
-    "userId": 32917172,
-    "content": "@zhaoyongjie 羞愧就去日本喝核废水谢罪啊。也算是为人类做点贡献了。或者赶紧去乌克兰参军啊。在这里弄你妈逼呢。",
-    "shouldBlock": true
-  },
-  {
-    "login": "qyingkou",
-    "userId": 46431594,
-    "content": "No matter how you express your opinions, this is your freedom. But I want to say that the following two points are indisputable:\r\n\r\n1.Open source software is the public property of the open source community, not the private property of Facebook\r\n2.Political opinions should not be expressed in technical products\r\n3.Chinese Developer are too busy to create an Issues with Chinese language.Obviously someone is deliberately discrediting.\r\nI am opposed to these practices that direct the scourge of war to China! @lostpupil ",
-    "shouldBlock": false
-  },
-  {
-    "login": "daydayup825",
-    "userId": 29352089,
-    "content": "这傻逼说了个啥 谁给翻译一下",
-    "shouldBlock": true
-  },
-  {
-    "login": "lostpupil",
-    "userId": 2015695,
-    "content": "![image](https://user-images.githubusercontent.com/2015695/156540093-6962920f-279c-45cc-92f9-b63ffaec53ef.png)\r\n@qyingkou \r\nYes, freedom.",
-    "shouldBlock": false
-  },
-  {
-    "login": "abuyao",
-    "userId": 31335677,
-    "content": "@zhaoyongjie 为啥要代表中国人跪下呢？别人只说了一句“帝国主义亡我之心不死”就下跪，这生怕惹了主子不高兴？",
-    "shouldBlock": true
-  },
-  {
-    "login": "lostpupil",
-    "userId": 2015695,
-    "content": "@abuyao\r\n这个人是个磕头怪，其他帖子里也跪下了。",
-    "shouldBlock": false
-  },
-  {
-    "login": "Eve-Sama",
-    "userId": 30228406,
-    "content": "> React Development Group I am very ashamed of these comments as a Chinese. Please close this issue.\r\n\r\n你羞愧你妈逼呢? 老子骂你一次都不过瘾. 人家react瞎鸡巴站队我不管, 你作为一中国人在这放你妈屁呢? 觉得react没毛病是吧. 当初咱们抗美援朝也错了呗? 没有抗美援朝, 别说你这个小几把仔子了. 你爹都不可能活着, 傻逼东西, 学点历史行不行? 书都读哪去了?\r\n你把你的狗眼闭上, 想一想就在几十年前, 你的祖父被关在牢里, 你祖母被人按在刑拘上, 一堆老外排着队轮奸. 一堆兄弟姐妹脑袋被砍下来当球踢, 心脏掏出来下酒菜.  你现在想一想觉得很爽是吧? 一点恨意也没有是吧? 你这种人能成为中国人, 我真tm觉得恶心. 草你妈的傻逼东西.\r\n时至今日, 时不时能看到美舰队和战斗机飞往台湾, 看不懂什么意思是吧? 看不懂就把你妈挖出来, 让她教教你, 如何做一个中国人!",
-    "shouldBlock": true
-  },
-  {
-    "login": "qyingkou",
-    "userId": 46431594,
-    "content": "#23700",
-    "shouldBlock": false
-  },
-  {
-    "login": "lostpupil",
-    "userId": 2015695,
-    "content": "They choose to be political first. We need to fight it back. Fuck them all.\r\n@qyingkou ",
-    "shouldBlock": true
-  },
-  {
-    "login": "lostpupil",
-    "userId": 2015695,
-    "content": "帝国主义亡我之心不死 ```\r\nВставай, проклятьем заклеймённый,\r\nВесь мир голодных и рабов!\r\nКипит наш разум возмущённый\r\nИ в смертный бой вести готов.\r\nВесь мир насилья мы разрушим\r\nДо основанья, а затем\r\nМы наш, мы новый мир построим, –\r\nКто был ничем, тот станет всем.\r\nПрипев:\r\n(×2) Это есть наш последний\r\nИ решительный бой;\r\nС Интернационалом\r\nВоспрянет род людской!\r\nНикто не даст нам избавленья:\r\nНи бог, ни царь и не герой!\r\nДобьёмся мы освобожденья\r\nСвоею собственной рукой.\r\nЧтоб свергнуть гнёт рукой умелой,\r\nОтвоевать своё добро, –\r\nВздувайте горн и куйте смело,\r\nПока железо горячо!\r\nПрипев\r\nДовольно кровь сосать, вампиры,\r\nТюрьмой, налогом, нищетой!\r\nУ вас – вся власть, все блага мира,\r\nА наше право – звук пустой !\r\nМы жизнь построим по-иному –\r\nИ вот наш лозунг боевой:\r\nВся власть народу трудовому!\r\nА дармоедов всех долой!\r\nПрипев\r\nПрезренны вы в своём богатстве,\r\nУгля и стали короли!\r\nВы ваши троны, тунеядцы,\r\nНа наших спинах возвели.\r\nЗаводы, фабрики, палаты –\r\nВсё нашим создано трудом.\r\nПора! Мы требуем возврата\r\nТого, что взято грабежом.\r\nПрипев\r\nДовольно королям в угоду\r\nДурманить нас в чаду войны!\r\nВойна тиранам! Мир Народу!\r\nБастуйте, армии сыны!\r\nКогда ж тираны нас заставят\r\nВ бою геройски пасть за них –\r\nУбийцы, в вас тогда направим\r\nМы жерла пушек боевых!\r\nПрипев\r\nЛишь мы, работники всемирной\r\nВеликой армии труда,\r\nВладеть землёй имеем право,\r\nНо паразиты – никогда!\r\nИ если гром великий грянет\r\nНад сворой псов и палачей, –\r\nДля нас всё так же солнце станет\r\nСиять огнём своих лучей.\r\nПрипев\r\n```",
-    "shouldBlock": true
-  },
-  {
-    "login": "zhaoyongjie",
-    "userId": 2016594,
-    "content": "React Development Group I am very ashamed of these comments as a Chinese. Please close this issue.",
-    "shouldBlock": false
-  },
-  {
-    "login": "niices",
-    "userId": 8327775,
-    "content": "[美国战争列表](https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B%E6%88%B0%E7%88%AD%E5%88%97%E8%A1%A8)",
-    "shouldBlock": true
-  },
-  {
     "login": "jialj",
     "userId": 15088450,
     "content": "The war waged by the United States has caused tens of thousands of civilian casualties. Where is your condemnation? ",
@@ -5079,7 +4863,7 @@
     "login": "lvdeyouli",
     "userId": 18548001,
     "content": "> React Development Group I am very ashamed of these comments as a Chinese person. Please close this issue.\r\n\r\n这位国际友人 跪久了站不起来了吗",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "lvdeyouli",
@@ -5166,12 +4950,6 @@
     "shouldBlock": true
   },
   {
-    "login": "lostpupil",
-    "userId": 2015695,
-    "content": "起初，纳粹抓共产党人的时候，\r\n我沉默，因为我不是共产党人。\r\n\r\n当他们抓社会民主主义者的时候，\r\n我沉默，因为我不是社会民主主义者。\r\n\r\n当他们抓工会成员的时候，\r\n我沉默，因为我不是工会成员。\r\n\r\n当他们抓犹太人的时候，\r\n我沉默，因为我不是犹太人。\r\n\r\n最后当他们来抓我时，\r\n再也没有人站起来为我说话了。",
-    "shouldBlock": false
-  },
-  {
     "login": "zhaoyongjie",
     "userId": 2016594,
     "content": "React Development Group I am very ashamed of these comments as a Chinese. Please close this issue.",
@@ -5241,13 +5019,13 @@
     "login": "llzy521",
     "userId": 6879112,
     "content": "ukranine support Nazi ！ SB",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "cnmade",
     "userId": 278153,
     "content": "@zachgenius 你不需要让大家反思，你为什么不反思你自己，为什么身为中国人，华人，你还在助纣为虐；欧美驰名双标你是看不到吗？他们对俄罗斯平民的行为，没收财产，驱逐他们，不让他们工作，这跟纳粹有什么区别。\r\n\r\n我们反的是纳粹行为，反的是针对平民，针对种族的清洗。\r\n\r\n\r\n我想请问你，你现在不站出来，抵御这种恶劣的行为。等他们反华的时候，抓住你，强奸你的妻女，把你卖去当奴隶，没收你的财产。\r\n\r\n你又如何自处。谁来拯救你可怜的灵魂。\r\n\r\n你又怎么能够不反思自己的幼稚和无知。",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "Lixianlai-2",
@@ -5283,7 +5061,7 @@
     "login": "BuzzWoods",
     "userId": 57121488,
     "content": "不反美反谁？美国阻止了世界和平",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "Siricee",
@@ -5301,7 +5079,7 @@
     "login": "riminggit",
     "userId": 35957389,
     "content": "> Hi all,\r\n> \r\n> I believe you may find tons of anti-US msgs in all kinds of issue zones and other communities. They either blame ppl who support Ukraine /condemn Putin's Russia, or talk sh*ts with insane or fascist logic. They even spread hates in Chinese.\r\n> \r\n> I, as a pre-China-based developer, have to say that the silent majority of Chinese ppl condemn such an invasion war from Putin's Russia. All these sh*t posts are from those who are brainwashed young students, gvmt-backed bots, or unclear about histories. They usually hold fascist logic just because of the censorship in Chinese SNS and media, which remove all different voices other than gvmt propaganda.\r\n> \r\n> I know some disgusting behaviours/speeches from CN ppl on the Internet, just like the usernames of these sh*t posts in the issue zone. But, I have to say, these ppl are too young and too naive.\r\n> \r\n> Finally, I support React's top bar showing supporting Ukraine. I've donated some cash to the local charity organization to support Ukraine. And I found from several Chinese commutes in Reddit that these Chinese users, most of which are students, have donated more than ten thousand USD.\r\n> \r\n> Hope the war ends soon. God bless Ukraine.\r\n> \r\n> 致 刷屏的小粉红们: 你们还嫌中国人名声不够臭嘛? To commie pinkos who talk sh*ts in the issue zone: do you want all Chinese people to be impressed as fascists and racists?\r\n\r\nBlame Russia? Don't you know we've bought up all the online stores in Russia? What qualifications do you have to represent the Chinese? You dare not even say that Ukraine has slaughtered 18,000 women and children in eastern Ukraine in recent years. Who are you to say that here? If you could just talk to that nonexistent brain of yours",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "R1hug0",
@@ -5313,7 +5091,7 @@
     "login": "riminggit",
     "userId": 35957389,
     "content": "> Hi all,\r\n> \r\n> I believe you may find tons of anti-US msgs in all kinds of issue zones and other communities. They either blame ppl who support Ukraine /condemn Putin's Russia, or talk sh*ts with insane or fascist logic. They even spread hates in Chinese.\r\n> \r\n> I, as a pre-China-based developer, have to say that the silent majority of Chinese ppl condemn such an invasion war from Putin's Russia. All these sh*t posts are from those who are brainwashed young students, gvmt-backed bots, or unclear about histories. They usually hold fascist logic just because of the censorship in Chinese SNS and media, which remove all different voices other than gvmt propaganda.\r\n> \r\n> I know some disgusting behaviours/speeches from CN ppl on the Internet, just like the usernames of these sh*t posts in the issue zone. But, I have to say, these ppl are too young and too naive.\r\n> \r\n> Finally, I support React's top bar showing supporting Ukraine. I've donated some cash to the local charity organization to support Ukraine. And I found from several Chinese commutes in Reddit that these Chinese users, most of which are students, have donated more than ten thousand USD.\r\n> \r\n> Hope the war ends soon. God bless Ukraine.\r\n> \r\n> 致 刷屏的小粉红们: 你们还嫌中国人名声不够臭嘛? To commie pinkos who talk sh*ts in the issue zone: do you want all Chinese people to be impressed as fascists and racists?\r\n\r\nWhat makes you have the illusion that when you go and a dog licks them, they'll think you're fine?",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "NightHawk6699",
@@ -5406,16 +5184,10 @@
     "shouldBlock": true
   },
   {
-    "login": "Gatsbyy",
-    "userId": 5585293,
-    "content": "> Hi all,\r\n> \r\n> I believe you may find tons of anti-US msgs in all kinds of issue zones and other communities. They either blame ppl who support Ukraine /condemn Putin's Russia, or talk sh*ts with insane or fascist logic. They even spread hates in Chinese.\r\n> \r\n> I, as a pre-China-based developer, have to say that the silent majority of Chinese ppl condemn such an invasion war from Putin's Russia. All these sh*t posts are from those who are brainwashed young students, gvmt-backed bots, or unclear about histories. They usually hold fascist logic just because of the censorship in Chinese SNS and media, which remove all different voices other than gvmt propaganda.\r\n> \r\n> I know some disgusting behaviours/speeches from CN ppl on the Internet, just like the usernames of these sh*t posts in the issue zone. But, I have to say, these ppl are too young and too naive.\r\n> \r\n> Finally, I support React's top bar showing supporting Ukraine. I've donated some cash to the local charity organization to support Ukraine. And I found from several Chinese commutes in Reddit that these Chinese users, most of which are students, have donated more than ten thousand USD.\r\n> \r\n> Hope the war ends soon. God bless Ukraine.\r\n> \r\n> 致 刷屏的小粉红们: 你们还嫌中国人名声不够臭嘛? To commie pinkos who talk sh*ts in the issue zone: do you want all Chinese people to be impressed as fascists and racists?\r\n> \r\n> 如果你们觉得一切都是美国的错, 软件不应该参与政治, 那么github为什么被中国GFW污染阻拦, 你们为什么要翻墙呢? telegram的开发者也是俄罗斯人并且也是反俄罗斯独裁政府, 你们为什么要用呢? If you believe these are all US's fault and software/opensource should get rid of politics, why is GitHub banned by China's GFW and why do you use VPN? Telegram is developed by a Russian who condemns Putin's Dictatorship in Russia, why do you use it?\r\n> \r\n> 请停止散播你们可笑的谩骂与仇恨. 你们还嫌中国人在外的名声不够臭是吧? Please, stop spreading hates! You're the hate-makers to your own Chinese people. Behave yourselves.\r\n> \r\n> 如果你支持俄罗斯入侵乌克兰, 那么你想想中国北方几百万平方公里的领土是谁吞并的? 是美国吗? 海兰泡惨案是美国造成的吗? 这么讨厌美国, 那么就麻烦把电脑手机都砸烂, 这都是美国货\r\n\r\n中国人名声臭。。。那是西方的刻意抹黑，你以为你乖乖的他们就不抹黑你了？你不发声，别人就一直欺负你。\r\n\r\n我们为什么来？请你先让React官方别在首页支持乌克兰再说吧。React先动手还有理了？\r\n\r\n一点对世界的认知都没有，如果俄罗斯也被西方收服了，你以为你还能好好坐着敲键盘吗？你得去服兵役面对西方的子弹了。",
-    "shouldBlock": true
-  },
-  {
     "login": "zachgenius",
     "userId": 2571039,
     "content": "From a Chinese Developer - We support Ukraine ppl and condemn invasion | React 18  <!--\r\n  Ask a question or share feedback about the React 18 release here.\r\n-->\r\n\r\nHi all, \r\n\r\nI believe you may find tons of anti-US msgs in all kinds of issue zones and other communities. They either blame ppl who support Ukraine /condemn Putin's Russia, or talk sh*ts with insane or fascist logic. They even spread hates in Chinese.\r\n\r\nI, as a pre-China-based developer, have to say that the silent majority of Chinese ppl condemn such an invasion war from Putin's Russia. All these sh*t posts are from those who are brainwashed young students, gvmt-backed bots, or unclear about histories. They usually hold fascist logic just because of the censorship in Chinese SNS and media, which remove all different voices other than gvmt propaganda. \r\n\r\nI know some disgusting behaviours/speeches from CN ppl on the Internet, just like the usernames of these sh*t posts in the issue zone. But, I have to say, these ppl are too young and too naive. \r\n\r\nFinally, I support React's top bar showing supporting Ukraine. I've donated some cash to the local charity organization to support Ukraine. And I found from several Chinese commutes in Reddit that these Chinese users, most of which are students, have donated more than ten thousand USD. \r\n\r\nHope the war ends soon.\r\nGod bless Ukraine.\r\n\r\n致 刷屏的小粉红们: 你们还嫌中国人名声不够臭嘛?\r\nTo commie pinkos who talk sh*ts in the issue zone: do you want all Chinese people to be impressed as fascists and racists?\r\n\r\n如果你们觉得一切都是美国的错, 软件不应该参与政治, 那么github为什么被中国GFW污染阻拦, 你们为什么要翻墙呢? telegram的开发者也是俄罗斯人并且也是反俄罗斯独裁政府, 你们为什么要用呢? \r\nIf you believe these are all US's fault and software/opensource should get rid of politics, why is GitHub banned by China's GFW and why do you use VPN? Telegram is developed by a Russian who condemns Putin's Dictatorship in Russia, why do you use it?\r\n\r\n请停止散播你们可笑的谩骂与仇恨. 你们还嫌中国人在外的名声不够臭是吧?\r\nPlease, stop spreading hates! You're the hate-makers to your own Chinese people. Behave yourselves.\r\n\r\n如果你支持俄罗斯入侵乌克兰, 那么你想想中国北方几百万平方公里的领土是谁吞并的? 是美国吗? 海兰泡惨案是美国造成的吗? 这么讨厌美国, 那么就麻烦把电脑手机都砸烂, 这都是美国货",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "Yanzengyong",
@@ -5505,7 +5277,7 @@
     "login": "v-limc",
     "userId": 22951622,
     "content": "> React Development Group I am very ashamed of these comments as a Chinese. Please close this issue.\r\n\r\nI am very ashamed of you being a Chinese. Please just go cry to your American daddy on your knees, we don't need you.\r\n\r\n太平洋没加盖，赶紧滚去你的美爹哪儿哭诉去吧，垃圾玩意儿",
-    "shouldBlock": true
+    "shouldBlock": false
   },
   {
     "login": "v-limc",
@@ -5535,6 +5307,12 @@
     "login": "qyingkou",
     "userId": 46431594,
     "content": "#23700",
+    "shouldBlock": false
+  },
+  {
+    "login": "lanningsix",
+    "userId": 30077789,
+    "content": "> React Development Group I am very ashamed of these comments as a Chinese. Please close this issue.\r\n\r\n煞笔玩意儿",
     "shouldBlock": false
   },
   {
@@ -6045,7 +5823,7 @@
     "login": "qmy777",
     "userId": 9345799,
     "content": "> 贡献开源我唯唯诺诺，破坏社区我重拳出击😆😆😆 建议fb删掉中文文档，估计这楼里没几个人能接着学😆😆\r\n\r\n请不要用中文说话，你侮辱了中文；中国没有你这样的汉奸",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "cnmade",
@@ -6183,7 +5961,7 @@
     "login": "Dante-dan",
     "userId": 19773791,
     "content": "Bug: If you love peace，please Anti-NATO \r\n情感上同情乌克兰人民；\r\n原则上尊重各国的主权；\r\n立场上反对北约不断东扩；\r\n感受上理解俄罗斯的无奈；\r\n底线上新纳粹全得上绞刑架；\r\n根本上讨厌美西方的霸权；\r\n\r\nEmotional sympathy for the Ukrainian people;\r\nRespect the sovereignty of states in principle;\r\nOpposes the continuous eastward expansion of NATO;\r\nFeel the helplessness of understanding Russia;\r\nThe limit is that neo-Nazis deserve to be hanged on the gallows;\r\nFundamentally hate the hegemony of the United States and the West;",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "niices",
@@ -6207,7 +5985,7 @@
     "login": "zachgenius",
     "userId": 2571039,
     "content": "Educate yourself. Have you ever interviewed Iraq, Afghanistan and Syria ppl? Have you ever searched for the reason of those wars? Stop spreading your fascist logic and pouring shits in the dev community. If you still blame ppl who support Ukraine and you still support Putin, please disconnect your VPN, boycott React (as well as SetApp, MacPaw, Internet, All electricity stuff, MasterCard/Visa, Lenovo and etc), stop using it and use your own country's service.  Almost every normal ppl condemns the dictator who invades other countries. Pray for Ukraine🇺🇦\r\n\r\nBTW, not all Chinese ppl hold such insane logic. I believe those who are pouring such shit in the issue zone are either naive or stupid or the CCP bots.\r\n",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "noob-ceng",
@@ -6219,7 +5997,7 @@
     "login": "riminggit",
     "userId": 35957389,
     "content": "> Educate yourself. Have you ever interviewed Iraq, Afghanistan and Syria ppl? Have you ever searched for the reason of those wars? Stop spreading your fascist logic and pouring shits in the dev community. If you still blame ppl who support Ukraine and you still support Putin, please disconnect your VPN, boycott React (as well as SetApp, MacPaw, Internet, All electricity stuff, MasterCard/Visa, Lenovo and etc), stop using it and use your own country's service. Almost every normal ppl condemns the dictator who invades other countries. Pray for Ukraine🇺🇦\r\n> \r\n> BTW, not all Chinese ppl hold such insane logic. I believe those who are pouring such shit in the issue zone are either naive or stupid or the CCP bots.\r\n\r\nI'll give your words back to you exactly as they were\r\nDid you really know the truth about those wars?\r\nWhy did the US rob the Afghan people of $7 billion?\r\nAnd countless oil resources?",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "niices",
@@ -6231,7 +6009,7 @@
     "login": "noob-ceng",
     "userId": 62786465,
     "content": "> Educate yourself. Have you ever interviewed Iraq, Afghanistan and Syria ppl? Have you ever searched for the reason of those wars? Stop spreading your fascist logic and pouring shits in the dev community. If you still blame ppl who support Ukraine and you still support Putin, please disconnect your VPN, boycott React (as well as SetApp, MacPaw, Internet, All electricity stuff, MasterCard/Visa, Lenovo and etc), stop using it and use your own country's service. Almost every normal ppl condemns the dictator who invades other countries. Pray for Ukraine🇺🇦\r\n> \r\n> BTW, not all Chinese ppl hold such insane logic. I believe those who are pouring such shit in the issue zone are either naive or stupid or the CCP bots.\r\n\r\nBashar al-Jafari : \"The Syrian constitution and its future belong to the Syrian people, and the greatest danger for Syria's constitutional committee is some attempt to interfere in its process to thwart efforts\"",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "xinx1n",
@@ -6717,7 +6495,7 @@
     "login": "colordove",
     "userId": 11832969,
     "content": "I apologize for the stupidity and the Nazis of these people, China is known to have a Great Firewall and they are always watching the controlled news and propaganda that makes them so crazy.",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "hfpp2012",
@@ -6729,7 +6507,7 @@
     "login": "Qk1hpys",
     "userId": 23358596,
     "content": "> I apologize for the stupidity and the Nazis of these people, China is known to have a Great Firewall and they are always watching the controlled news and propaganda that makes them so crazy.\r\n\r\n你不用道歉，我们已经开始反思了呜呜呜",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "FatherOfAmerican",
@@ -6783,6 +6561,30 @@
     "login": "Dev-Wiki",
     "userId": 12946956,
     "content": "> 怎么没人冲nodejs呢，明明node官网上的字还大一点，赶紧让nodejs滚出地球\r\n\r\n不让你添加 issue和pr... 做了亏心事",
+    "shouldBlock": false
+  },
+  {
+    "login": "Janlaywss",
+    "userId": 36876080,
+    "content": "> 我只能说太经典了 ![75E799895E0812E9BEEC5EEFCFB10E0B](https://user-images.githubusercontent.com/50366371/156553351-b672e012-08c6-4760-a880-b1f129e58b8b.jpg) ![36008041DDF9A58D3F9848BCFF9D689C](https://user-images.githubusercontent.com/50366371/156553358-6b664f9c-704c-4b68-b1aa-82982ac26ee1.jpg)\r\n\r\n乌克兰和俄罗斯局势我管不着，。。但这个操作。。我想说些什么，但只能保持克制。不能丢掉形象",
+    "shouldBlock": false
+  },
+  {
+    "login": "SAFEluren",
+    "userId": 79032826,
+    "content": "> 大家还是开个微信群聊吧，这样摸鱼方便点\n\n方便晶哥抓人是吧👀",
+    "shouldBlock": false
+  },
+  {
+    "login": "SekiBetu",
+    "userId": 38283893,
+    "content": "![1101950911_400](https://user-images.githubusercontent.com/38283893/156556857-b0f8afe0-6d48-4682-8818-8b71d2e09918.jpg)\r\nAgree! \"Time\" to bring Ukraine some love and peace!",
+    "shouldBlock": false
+  },
+  {
+    "login": "lanistor",
+    "userId": 15553840,
+    "content": "Don't talk morality to rascals(react).",
     "shouldBlock": false
   },
   {
@@ -6957,13 +6759,13 @@
     "login": "juanfu1997",
     "userId": 30626946,
     "content": "support Nazi！？Are you kidding me？",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "awefeng",
     "userId": 13977563,
     "content": " the king of this universe is America ? There is a Nazi army in Ukraine called Azov Battalion，And Why a technical framework have this tip ?  Why you are so stupid ? ",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "cdll",
@@ -6993,7 +6795,7 @@
     "login": "xueqingxiao",
     "userId": 4010906,
     "content": "if you guys are not going to support Nazi, take a look [this video](https://vimeo.com/202792798).  and remove this highlight from react doc site.",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "Hahahaooovvv",
@@ -7077,7 +6879,7 @@
     "login": "cnmade",
     "userId": 278153,
     "content": "I hope you guys support Ukraine, please support our new suggest: \r\nhttps://github.com/facebook/react/issues/23403",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "HuXin957",
@@ -7143,7 +6945,7 @@
     "login": "Skyzhanyou",
     "userId": 42146175,
     "content": "Russian troops never attacked Ukrainian civilians. In contrast, the Ukrainian army shelled civilians in eastern Ukraine for 8 years, and some of their soldiers held Nazi flags, but the Western world chooses to ignore.\r\nSo react, fxxk you!🖕",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "unclepan",
@@ -7371,7 +7173,7 @@
     "login": "yisar",
     "userId": 12951461,
     "content": "乌拉🇷🇺",
-    "shouldBlock": true
+    "shouldBlock": false
   },
   {
     "login": "cnmade",
@@ -7425,7 +7227,7 @@
     "login": "yuu2lee4",
     "userId": 8046366,
     "content": "Don't bring politics to React  ![1646279332634](https://user-images.githubusercontent.com/8046366/156497787-3fae7d87-8ade-41a0-af57-deb86363789f.jpg)\r\n\r\nI feel so sad you bring politics to React. In my opinion, Support Ukraine government equal support nazi.\r\n",
-    "shouldBlock": false
+    "shouldBlock": true
   },
   {
     "login": "sizebot",
@@ -7437,6 +7239,30 @@
     "login": "lunaruan",
     "userId": 2735514,
     "content": "[DevTools][Transition Tracing] Added support for Suspense Boundaries ",
+    "shouldBlock": false
+  },
+  {
+    "login": "mmarkelov",
+    "userId": 22371328,
+    "content": "@jantimon until it's not fixed you can try this workaround:\r\n```js\r\nexport default function App() {\r\n  const [showDialog1, setShowDialog1] = useState(false);\r\n  const [showDialog2, setShowDialog2] = useState(false);\r\n  return (\r\n    <>\r\n      // ...\r\n      <Dialog open={showDialog2} onClose={() => setShowDialog2(false)}>\r\n        <input value=\"don't focus on me\" />\r\n        <input value=\"please focus me\" autoFocus={showDialog2} />\r\n      </Dialog>\r\n    </>\r\n  );\r\n}\r\n```",
+    "shouldBlock": false
+  },
+  {
+    "login": "jeongwoopark0514",
+    "userId": 56996951,
+    "content": "Hello, @Jahb, @Mirijam1, @budihan, and I are a team from TU Delft. We are taking a course called Software Architecture. We chose ReactJS as our project, and would like to start our first contribution with this issue!",
+    "shouldBlock": false
+  },
+  {
+    "login": "ye1dos",
+    "userId": 39968522,
+    "content": "Hi, I would like to work on this issue. I am taking Open Source course where I must contribute to a project (in my case it is reactJS).",
+    "shouldBlock": false
+  },
+  {
+    "login": "jantimon",
+    "userId": 4113649,
+    "content": "Bug: autoFocus broken inside <dialog />  <!--\r\n  Please provide a clear and concise description of what the bug is. Include\r\n  screenshots if needed. Please test using the latest version of the relevant\r\n  React packages to make sure your issue has not already been fixed.\r\n-->\r\n\r\nReact version: 17 and 18.0.0-rc.0-next-27b569969-20220211\r\n\r\n## Steps To Reproduce\r\n\r\n1. render `<input /><input autoFocus />` inside `<dialog />`\r\n2. execute the `showModal()` method of the dialog\r\n3. you will notice that react will not set focus to the correct input element\r\n\r\n![DialogAutoFocus](https://user-images.githubusercontent.com/4113649/154110039-dc6dbd63-f294-4089-aa25-420626088ef5.gif)\r\n\r\n\r\n<!--\r\n  Your bug will get fixed much faster if we can run your code and it doesn't\r\n  have dependencies other than React. Issues without reproduction steps or\r\n  code examples may be immediately closed as not actionable.\r\n-->\r\n\r\nLink to code example:\r\n\r\n<!--\r\n  Please provide a CodeSandbox (https://codesandbox.io/s/new), a link to a\r\n  repository on GitHub, or provide a minimal code example that reproduces the\r\n  problem. You may provide a screenshot of the application if you think it is\r\n  relevant to your bug report. Here are some tips for providing a minimal\r\n  example: https://stackoverflow.com/help/mcve.\r\n-->\r\n\r\nhttps://codesandbox.io/s/dreamy-meninsky-460wbr?file=/src/App.tsx\r\n\r\n## The current behavior\r\n\r\nIn Chrome and Safari TP the element with `autofocus=\"true\"` will receive focus.  \r\nHowever the element with `autoFocus={true}` will not receive focus.\r\n\r\n## The expected behavior\r\n\r\nFrom the html-spec https://html.spec.whatwg.org/multipage/interaction.html#the-autofocus-attribute\r\n\r\n> The autofocus content attribute allows the author to indicate that an element is to be focused [...] as soon as the [dialog](https://html.spec.whatwg.org/multipage/interactive-elements.html#the-dialog-element) within which it finds itself is shown\r\n\r\n\r\nFrom https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/autofocus\r\n\r\n> The autofocus [global attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes) is a Boolean attribute indicating that an element should be focused on page load, or when the [`<dialog>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog) that it is part of is displayed\r\n\r\nTherefore `autoFocus={true}` should also set the focus similar to `autofocus=\"true\"` for elements inside `<dialog />`\r\n",
     "shouldBlock": false
   },
   {
