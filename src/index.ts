@@ -7,6 +7,7 @@ import whitelist from './whitelist.json'
 interface Datum {
   login: string
   userId: number
+  issue: number
   content: string
   shouldBlock: boolean
 }
@@ -55,6 +56,7 @@ function getBlocked() {
 function check(
   user: { id: number | null; login: string | null } | null,
   content: string | undefined,
+  number: number,
   blocked: Set<string>
 ) {
   if (!content || !user?.id || !user.login) return
@@ -66,6 +68,7 @@ function check(
   data.push({
     login: user.login,
     userId: user.id,
+    issue: number,
     content,
     shouldBlock,
   })
@@ -120,11 +123,16 @@ function check(
         perPage
       )
       for (const comment of comments) {
-        check(comment.user, comment.body, blocked)
+        check(comment.user, comment.body, issue.number, blocked)
       }
     }
 
-    check(issue.user, `${issue.title} ${issue.body ?? ''}`, blocked)
+    check(
+      issue.user,
+      `${issue.title} ${issue.body ?? ''}`,
+      issue.number,
+      blocked
+    )
   }
 
   await writeFile('./data.json', JSON.stringify(data, undefined, 2), 'utf-8')
