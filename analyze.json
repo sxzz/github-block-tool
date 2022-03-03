@@ -12,7 +12,7 @@
   {
     "userId": 19618696,
     "username": "JulesCesar",
-    "weight": 303.5
+    "weight": 327.5
   },
   {
     "userId": 278153,
@@ -40,6 +40,11 @@
     "weight": 107.5
   },
   {
+    "userId": 16609983,
+    "username": "MolueJames",
+    "weight": 106.5
+  },
+  {
     "userId": 13913770,
     "username": "WPolly",
     "weight": 103
@@ -48,11 +53,6 @@
     "userId": 15625600,
     "username": "renkaige5",
     "weight": 100
-  },
-  {
-    "userId": 16609983,
-    "username": "MolueJames",
-    "weight": 94.5
   },
   {
     "userId": 42940500,
@@ -85,6 +85,11 @@
     "weight": 56
   },
   {
+    "userId": 96559721,
+    "username": "764347514",
+    "weight": 55
+  },
+  {
     "userId": 53296987,
     "username": "expeditionist-cj",
     "weight": 51
@@ -112,11 +117,6 @@
   {
     "userId": 26238385,
     "username": "changzhn",
-    "weight": 47
-  },
-  {
-    "userId": 96559721,
-    "username": "764347514",
     "weight": 47
   },
   {
@@ -343,6 +343,11 @@
     "userId": 11832969,
     "username": "colordove",
     "weight": 27.5
+  },
+  {
+    "userId": 42299982,
+    "username": "bgwd666",
+    "weight": 27
   },
   {
     "userId": 47809361,
@@ -655,11 +660,6 @@
     "weight": 15
   },
   {
-    "userId": 42299982,
-    "username": "bgwd666",
-    "weight": 15
-  },
-  {
     "userId": 17978187,
     "username": "Blankj",
     "weight": 15
@@ -805,8 +805,18 @@
     "weight": 13.5
   },
   {
+    "userId": 79294762,
+    "username": "zhy531017132",
+    "weight": 12
+  },
+  {
     "userId": 1305983,
     "username": "wind108369",
+    "weight": 12
+  },
+  {
+    "userId": 8063357,
+    "username": "penglimin",
     "weight": 12
   },
   {
@@ -1385,11 +1395,6 @@
     "weight": 0
   },
   {
-    "userId": 79294762,
-    "username": "zhy531017132",
-    "weight": 0
-  },
-  {
     "userId": 34644814,
     "username": "mooncakedevop",
     "weight": 0
@@ -1467,11 +1472,6 @@
   {
     "userId": 8325981,
     "username": "yangfuzhi",
-    "weight": 0
-  },
-  {
-    "userId": 8063357,
-    "username": "penglimin",
     "weight": 0
   },
   {
