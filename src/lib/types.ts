@@ -21,4 +21,5 @@ export interface User {
   userId: number
   username: string
   weight: number
+  email?: string
 }

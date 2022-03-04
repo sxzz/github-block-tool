@@ -9,7 +9,7 @@ async function main() {
   const issues = await getIssues()
 
   const data = await Promise.all(
-    Array.from(issues.entries()).map(async ([i, issue]): Promise<Issue> => {
+    issues.map(async (issue, i): Promise<Issue> => {
       const comments: Comment[] = []
       if (issue.comments > 0) {
         console.info(
