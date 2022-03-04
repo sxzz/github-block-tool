@@ -485,6 +485,11 @@
     "weight": 22.5
   },
   {
+    "userId": 8046366,
+    "username": "yuu2lee4",
+    "weight": 22.5
+  },
+  {
     "userId": 26159724,
     "username": "niming175",
     "weight": 21.5
@@ -918,11 +923,6 @@
     "userId": 1892986,
     "username": "Bosn",
     "weight": 11
-  },
-  {
-    "userId": 26687994,
-    "username": "dockercore",
-    "weight": 10.5
   },
   {
     "userId": 29529286,
@@ -1480,6 +1480,11 @@
     "weight": 0
   },
   {
+    "userId": 26687994,
+    "username": "dockercore",
+    "weight": 0
+  },
+  {
     "userId": 34644814,
     "username": "mooncakedevop",
     "weight": 0
@@ -1635,6 +1640,11 @@
     "weight": 0
   },
   {
+    "userId": 22375523,
+    "username": "roseduan",
+    "weight": 0
+  },
+  {
     "userId": 3351486,
     "username": "ShinChven",
     "weight": 0
@@ -1667,6 +1677,11 @@
   {
     "userId": 26020820,
     "username": "TheCokeCat",
+    "weight": 0
+  },
+  {
+    "userId": 10137,
+    "username": "ghost",
     "weight": 0
   },
   {
@@ -1797,6 +1812,11 @@
   {
     "userId": 100838369,
     "username": "YUHOU0012",
+    "weight": 0
+  },
+  {
+    "userId": 2016594,
+    "username": "zhaoyongjie",
     "weight": 0
   },
   {
@@ -2412,6 +2432,11 @@
   {
     "userId": 31988780,
     "username": "Month7",
+    "weight": 0
+  },
+  {
+    "userId": 12951461,
+    "username": "yisar",
     "weight": 0
   },
   {

@@ -13,18 +13,18 @@ function analyzeUser(
   content: string,
   baseWeight: number
 ) {
-  if (whitelist.includes(username)) return
-
   let user: User
   if (users.has(userId)) user = users.get(userId)!
   else user = { userId, username, weight: 0 }
 
-  const weight = (words as Word[])
-    .filter(([word]) => content.toLowerCase().includes(word.toLowerCase()))
-    .map(([, weight]) => weight)
-    .reduce((prev, curr) => prev + curr, 0)
-
-  user.weight += baseWeight * weight
+  let weight = 0
+  if (!whitelist.includes(username)) {
+    weight = (words as Word[])
+      .filter(([word]) => content.toLowerCase().includes(word.toLowerCase()))
+      .map(([, weight]) => weight)
+      .reduce((prev, curr) => prev + curr, 0)
+    user.weight += baseWeight * weight
+  }
 
   users.set(userId, user)
 }
